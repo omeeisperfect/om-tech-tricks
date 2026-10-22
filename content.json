@@ -1,872 +1,896 @@
 {
-  "daily": {
-    "meta": "OCT 17 · APP",
-    "title": "Block ALL ads with AdGuard — YouTube, sites & apps.",
-    "description": "Install the free **AdGuard** browser extension from adguard.com and watch YouTube and websites load **without ads** — Android/iPhone apps cover system-wide blocking too.",
-    "note": {
-      "label": "Honest note",
-      "text": "Free extension covers browser ads; full system-wide phone blocking is paid."
-    },
-    "copyText": "adguard.com"
+ "daily": {
+  "meta": "OCT 22 · WEBSITE",
+  "title": "New movies in Hindi — free on pvrplay.in.",
+  "description": "Watch **new movies dubbed in Hindi** in your browser with no Netflix or Prime needed — open **pvrplay.in**, pick a title, and stream right in the page.",
+  "note": {
+   "label": "Honest note",
+   "text": "Unofficial streaming site — it loads and plays, but don't share personal or payment details there."
   },
-  "hacks": [
+  "copyText": "pvrplay.in"
+ },
+ "hacks": [
+  {
+   "description": "Test beside the router first. If speed improves there, move the router higher and into the open before buying an extender.",
+   "tag": "WI-FI",
+   "title": "Wi-Fi feels slow?"
+  },
+  {
+   "description": "Sort downloads and videos by size, remove offline media you can re-download, then empty the app’s own trash. Skip “cleaner” apps promising miracle speedups.",
+   "tag": "STORAGE",
+   "title": "Phone storage full?"
+  },
+  {
+   "description": "Check Task Manager or Activity Monitor for unusual CPU use. Restart that app, clear blocked vents and keep the laptop off soft bedding.",
+   "tag": "LAPTOP",
+   "title": "Laptop running hot?"
+  },
+  {
+   "description": "Review usage by app, disable unnecessary background activity and test one night with airplane mode to separate weak-signal drain from app drain.",
+   "tag": "BATTERY",
+   "title": "Battery draining overnight?"
+  }
+ ],
+ "reelCount": "29 reels checked",
+ "reelSource": "@techwithmani2.0",
+ "reels": [
+  {
+   "date": "OCT 14",
+   "title": "🎮 GTA 5 on Browser — No Download Needed",
+   "description": "Techwithmani2.0 shows **GTA 5 running inside the browser** — open gta.deloskiyt.pl and play without downloading or installing anything.",
+   "steps": [
+    "Open **gta.deloskiyt.pl** in your browser.",
+    "Enable **desktop site** mode if you're on a phone.",
+    "Wait for the game to load and play right in the page."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Comments are mixed — viewers report **lag on phones** and occasional load failures; best on a fast connection. The creator re-uploaded the same reel twice; both point to the same site."
+   },
+   "links": [
     {
-      "description": "Test beside the router first. If speed improves there, move the router higher and into the open before buying an extender.",
-      "tag": "WI-FI",
-      "title": "Wi-Fi feels slow?"
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/Debl8JcqEvG/"
     },
     {
-      "description": "Sort downloads and videos by size, remove offline media you can re-download, then empty the app’s own trash. Skip “cleaner” apps promising miracle speedups.",
-      "tag": "STORAGE",
-      "title": "Phone storage full?"
-    },
-    {
-      "description": "Check Task Manager or Activity Monitor for unusual CPU use. Restart that app, clear blocked vents and keep the laptop off soft bedding.",
-      "tag": "LAPTOP",
-      "title": "Laptop running hot?"
-    },
-    {
-      "description": "Review usage by app, disable unnecessary background activity and test one night with airplane mode to separate weak-signal drain from app drain.",
-      "tag": "BATTERY",
-      "title": "Battery draining overnight?"
+     "label": "Play GTA 5 in browser ↗",
+     "href": "https://gta.deloskiyt.pl/"
     }
-  ],
-  "reelCount": "29 reels checked",
-  "reelSource": "@techwithmani2.0",
-  "reels": [
+   ]
+  },
+  {
+   "date": "OCT 13",
+   "title": "🎬 FREE AI Video Generator — Google Vids",
+   "description": "Techwithmani2.0 shows **Google Vids**: sign in with your Google account, add a scene, type a prompt, and generate an AI video clip — then insert it into the timeline and export.",
+   "steps": [
+    "Search **Google Vids** and open the Google Workspace Vids page.",
+    "Sign in with your Google account and open the editor.",
+    "Add a new scene, type your prompt, and hit **Generate**.",
+    "The AI clip appears in the preview — insert it into the timeline and export your video."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The reel title says FREE, but viewers report the free tier is capped — around 5–10 videos per Google account, then paid credits are needed. Not unlimited."
+   },
+   "links": [
     {
-      "date": "OCT 14",
-      "title": "🎮 GTA 5 on Browser — No Download Needed",
-      "description": "Techwithmani2.0 shows **GTA 5 running inside the browser** — open gta.deloskiyt.pl and play without downloading or installing anything.",
-      "steps": [
-        "Open **gta.deloskiyt.pl** in your browser.",
-        "Enable **desktop site** mode if you're on a phone.",
-        "Wait for the game to load and play right in the page."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Comments are mixed — viewers report **lag on phones** and occasional load failures; best on a fast connection. The creator re-uploaded the same reel twice; both point to the same site."
-      },
-      "links": [
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/Debl8JcqEvG/"
-        },
-        {
-          "label": "Play GTA 5 in browser ↗",
-          "href": "https://gta.deloskiyt.pl/"
-        }
-      ]
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DeY-sY-q3_k/"
     },
     {
-      "date": "OCT 13",
-      "title": "🎬 FREE AI Video Generator — Google Vids",
-      "description": "Techwithmani2.0 shows **Google Vids**: sign in with your Google account, add a scene, type a prompt, and generate an AI video clip — then insert it into the timeline and export.",
-      "steps": [
-        "Search **Google Vids** and open the Google Workspace Vids page.",
-        "Sign in with your Google account and open the editor.",
-        "Add a new scene, type your prompt, and hit **Generate**.",
-        "The AI clip appears in the preview — insert it into the timeline and export your video."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "The reel title says FREE, but viewers report the free tier is capped — around 5–10 videos per Google account, then paid credits are needed. Not unlimited."
-      },
-      "links": [
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/DeY-sY-q3_k/"
-        },
-        {
-          "label": "Google Vids ↗",
-          "href": "https://workspace.google.com/products/vids/"
-        }
-      ]
-    },
-    {
-      "date": "OCT 10",
-      "title": "🎨 Create unlimited AI images — free",
-      "description": "Techwithmani2.0 shows **ToolFK's free AI Image Generator**: pick the **AGNES AI** model, type a prompt, and get unlimited AI pictures without paying or signing up.",
-      "steps": [
-        "Open **toolfk.com** → **AI Image Generator**.",
-        "Select the **AGNES AI** model, enter your prompt, hit generate.",
-        "Download your AI image — repeat free, unlimited times."
-      ],
-      "note": {
-        "label": "Note",
-        "text": "Short ads play between generations. Best for cartoon-style images; quality varies by prompt."
-      },
-      "links": [
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/DeRT8F6q6G3/"
-        },
-        {
-          "label": "ToolFK AI Image Generator ↗",
-          "href": "https://toolfk.com"
-        }
-      ]
-    },
-    {
-      "date": "SEP 29",
-      "title": "🎮 Play GTA in your browser — no download",
-      "description": "**Real and free.** GTA Vice City (2002) and GTA 3 now run right inside a modern browser — no download, no install, works on phone and PC.",
-      "steps": [
-        "Open **quenq.com** and go to the Apps section",
-        "Pick GTA 3 or GTA Vice City and hit **Play Game**",
-        "Wait for it to load, then click to start — touch controls appear on mobile"
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Fan-made port, not an official Rockstar release. On DOS Zone only a demo is free — the full game needs files from your own Vice City copy."
-      },
-      "links": [
-        {
-          "label": "Play it: quenq.com ↗",
-          "href": "https://quenq.com"
-        },
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/Dd3kkLJBdEu/"
-        }
-      ]
-    },
-    {
-      "date": "SEP 25",
-      "description": "**Not real in a legal way.** No legal site streams Netflix, HBO and Disney+ free. The reel shows pirate sites. They may play, but they are illegal, full of pop-up ads and malware risk, and often get shut down. Legal free options include Pluto TV and Tubi.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DdtLR6nK59u/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "🏴‍☠️ Free Netflix, HBO Max & more"
-    },
-    {
-      "date": "SEP 23",
-      "description": "roadmap.sh is real and free.",
-      "links": [
-        {
-          "href": "https://roadmap.sh/",
-          "label": "Open roadmap.sh ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DdoJTqRKvMj/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "steps": [
-        "Open roadmap.sh.",
-        "Click **Roadmaps** and pick one, such as Frontend or Backend.",
-        "Click any box to open free lessons for that topic.",
-        "Click a box again to mark it Done.",
-        "Sign in free to save your progress."
-      ],
-      "title": "✅ Free courses for students"
-    },
-    {
-      "date": "SEP 22",
-      "description": "Both tools are real.",
-      "links": [
-        {
-          "href": "https://getdesign.md/",
-          "label": "Get Design ↗"
-        },
-        {
-          "href": "https://sitepeel.dev/",
-          "label": "Sitepeel ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DdllkxEqXvx/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "Copy code only to learn. Get permission before reusing someone’s work."
-      },
-      "steps": [
-        "Open getdesign.md and choose a brand, such as BMW.",
-        "Click **Copy** on the design file and paste it into your AI coding tool.",
-        "Tell the AI: “build a page in this style.”",
-        "For Sitepeel, install it from the Chrome Web Store. Open a website, then click the extension to see or copy its HTML and CSS."
-      ],
-      "title": "✅ Make your website look professional"
-    },
-    {
-      "date": "SEP 21",
-      "description": "This is a real open-source project.",
-      "links": [
-        {
-          "href": "https://github.com/FatihMakes/Mark-LIV",
-          "label": "Open project ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DdizwrFIkc5/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "It uses Google’s free tier, which has limits."
-      },
-      "steps": [
-        "Install Python on your PC from python.org.",
-        "Open the Mark-LIV GitHub page, click the green **Code** button, choose **Download ZIP**, then unzip it.",
-        "Go to Google AI Studio and create a free API key.",
-        "Follow the setup in the unzipped folder and add your key where it asks.",
-        "Run the main file and say “Hey Jarvis.”"
-      ],
-      "title": "✅ Build your own JARVIS"
-    },
-    {
-      "date": "SEP 19",
-      "description": "Audiomack, Apollo Music and Youtify are real free apps.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/Ddd-6rTKaBn/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "They are not full Spotify replacements, and song choice can be limited."
-      },
-      "steps": [
-        "Open the App Store, search **Audiomack**, and install it.",
-        "Search **Apollo Music** and install it.",
-        "Search **Youtify** and install it.",
-        "Open an app, search for a song, then play it or save it offline."
-      ],
-      "title": "✅ Free music apps for iPhone"
-    },
-    {
-      "date": "SEP 17",
-      "description": "**The reel gave the wrong website.** arena-ai.com is a hardware company. The real free multi-model chat is arena.ai.",
-      "links": [
-        {
-          "href": "https://arena.ai",
-          "label": "Open arena.ai ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DdYmT-oqqe5/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "It has daily limits. It is not unlimited."
-      },
-      "steps": [
-        "Open arena.ai.",
-        "Pick two AI models to compare, or choose Direct Mode for one model.",
-        "Type your question and read the answers."
-      ],
-      "title": "⚠️ Free Claude and GPT chat"
-    },
-    {
-      "date": "SEP 16",
-      "description": "**Half fake.** There is no music app called Bitcord; Bitcord is a messenger app. Echo Music is real, but it streams YouTube Music without ads, which breaks YouTube’s rules. Use it at your own risk.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DdWHSq6KyOq/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "❌ Free Spotify trick for Android"
-    },
-    {
-      "date": "SEP 15",
-      "description": "**The reel gave the wrong website.** recordly.com is dead. The real free tool is recordly.dev.",
-      "links": [
-        {
-          "href": "https://recordly.dev",
-          "label": "Open Recordly ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DdThf47Ko1w/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "steps": [
-        "Open recordly.dev and download it for Mac, Windows or Linux.",
-        "Install and open it.",
-        "Press record and make your tutorial.",
-        "It adds zoom effects and smooth cursor movement automatically.",
-        "Export your result as MP4 or GIF."
-      ],
-      "title": "⚠️ Auto-editing screen recorder"
-    },
-    {
-      "date": "SEP 14",
-      "description": "kikivoice.ai is real and free.",
-      "links": [
-        {
-          "href": "https://kikivoice.ai",
-          "label": "Open KikiVoice ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DdQ8wMNK4xj/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Tip",
-        "text": "Use a clean, noise-free sample. The free plan has weekly limits and needs no sign-up."
-      },
-      "steps": [
-        "Open kikivoice.ai.",
-        "Choose **Voice Cloning**.",
-        "Record or upload 10–15 seconds of clear voice.",
-        "Type or paste the words you want spoken.",
-        "Click Generate, wait, then download the MP3."
-      ],
-      "title": "✅ Free voice cloning & text-to-speech"
-    },
-    {
-      "date": "SEP 13",
-      "description": "**This is a myth, not a hack.** YouTube says channel country and keyword settings do not boost recommendations. These settings are fine for housekeeping, but views come from good titles, watch time and useful content.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DdOTuJrqFJ3/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "❌ YouTube views trick"
-    },
-    {
-      "date": "SEP 12",
-      "description": "KwaiCut is a real app.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DdLlQMgKcuQ/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "4K export may need the paid Pro upgrade."
-      },
-      "steps": [
-        "Open the Play Store and search **KwaiCut - Video Editor**.",
-        "Check that the developer is **Kwai Technology Limited**, then install it.",
-        "Open it and tap New Project to choose a video.",
-        "Tap a clip to cut it or add filters, effects and music.",
-        "Try the free templates in the Material Center.",
-        "Tap Export, choose the quality, then save and share."
-      ],
-      "title": "✅ KwaiCut: free CapCut alternative"
-    },
-    {
-      "date": "SEP 10",
-      "description": "**The claim is false.** trustedeleven.com is a paid shop using JazzCash, Easypaisa or bank transfer. There is no free tier. For free voices, try kikivoice.ai above instead.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DdGq1GrqRoK/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "❌ Free AI voices"
-    },
-    {
-      "date": "SEP 9",
-      "description": "DeepSeek is real and free.",
-      "links": [
-        {
-          "href": "https://chat.deepseek.com",
-          "label": "Open DeepSeek ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DdD_u2RKC9N/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "steps": [
-        "Open chat.deepseek.com.",
-        "Sign up free with email or Google.",
-        "Type a question or coding problem and press send.",
-        "To fix code, paste it and ask: “find the bug in this code.”",
-        "Turn on DeepThink for step-by-step maths or logic answers."
-      ],
-      "title": "✅ Free ChatGPT alternative for coding"
-    },
-    {
-      "date": "SEP 8",
-      "description": "**This is piracy.** The reel shows shared Crunchyroll logins and unlicensed anime streams. Shared logins can get accounts banned. Pirate sites are illegal and often have aggressive pop-up ads.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DdBfEkQqBlF/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "🏴‍☠️ Free anime"
-    },
-    {
-      "date": "SEP 7",
-      "description": "This trick is real and works.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/Dc-7hp7qxga/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "It gives a close match, not a pixel-perfect copy."
-      },
-      "steps": [
-        "Take a screenshot of the AI image you like.",
-        "Open ChatGPT and start a new chat.",
-        "Attach the image.",
-        "Type: “Give me the exact prompt in JSON format to recreate this image. Describe composition, style, lighting, colours, and mood.”",
-        "Copy the JSON ChatGPT writes.",
-        "Paste it into an image generator and swap the subject for your own photo."
-      ],
-      "title": "✅ Copy any AI image prompt"
-    },
-    {
-      "date": "SEP 6",
-      "description": "It is real, but read the warning. The reel misspelled the website; the correct site is platform.experientiallabs.ai.",
-      "links": [
-        {
-          "href": "https://platform.experientiallabs.ai",
-          "label": "Open platform ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/Dc8bB2RKQ0u/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Warning",
-        "text": "You give your card to a small third-party company. The free tier is a limited promotion, not forever."
-      },
-      "steps": [
-        "Open the site and sign up.",
-        "Go to Models and find GPT-6 Astra.",
-        "Add a card and pay the one-time $1 verification charge to unlock the free tier.",
-        "Create an API key in your dashboard.",
-        "Set your monthly budget to $0 so you cannot be billed.",
-        "Use the key with the model name **gpt-6-astra**."
-      ],
-      "title": "✅ GPT-6 Astra free"
-    },
-    {
-      "date": "SEP 5",
-      "description": "**Could not verify.** freemodels.pro would not open. “Free unlimited frontier AI models with no signup” is not believable when those models cost money elsewhere. Do not enter your login or card details there.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/Dc5vR8gKWt4/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "⚠️ Free Claude & Fable models"
-    },
-    {
-      "date": "SEP 4",
-      "description": "Klera is a real free app.",
-      "links": [
-        {
-          "href": "https://kleraapp.com/get",
-          "label": "Get Klera ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/Dc3DjihKLT_/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "It works fully offline and needs no account."
-      },
-      "steps": [
-        "Open kleraapp.com/get on your phone.",
-        "Tap the Play Store or App Store button and install Klera.",
-        "Open it. No sign-up is needed.",
-        "Tap + and type an amount, or say “200 chai, 300 fuel,” to log spending.",
-        "Set a monthly budget for overspend alerts.",
-        "Ask “Can I buy a phone for 30000?” and its on-device AI answers from your data."
-      ],
-      "title": "✅ Track where your money goes"
-    },
-    {
-      "date": "SEP 2",
-      "description": "This workflow is real.",
-      "links": [
-        {
-          "href": "https://labs.google/flow",
-          "label": "Open Google Flow ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/Dcx9nycKXKN/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "The free tier gives about 2–3 clips a day, not unlimited use."
-      },
-      "steps": [
-        "Photograph your product on a plain background.",
-        "In ChatGPT, describe it and ask: “write a detailed AI video prompt for a product ad.”",
-        "Open Google Flow and sign in with a free Google account.",
-        "Start a new project and upload your product photos.",
-        "Paste the ChatGPT prompt and generate the clip.",
-        "Download the video and post it."
-      ],
-      "title": "✅ Free AI product videos"
-    },
-    {
-      "date": "SEP 1",
-      "description": "Google Stitch is real.",
-      "links": [
-        {
-          "href": "https://stitch.withgoogle.com",
-          "label": "Open Stitch ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/Dcvhfevqwp-/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "It is free with daily limits."
-      },
-      "steps": [
-        "Open stitch.withgoogle.com and sign in with Google.",
-        "Choose Mobile or Web.",
-        "Type your idea in simple words, such as “a food delivery app with dark mode.”",
-        "Click Generate to make full screens with colors and buttons.",
-        "Chat with it to refine the design, such as “make the button rounder.”",
-        "Export the code or send it to Figma or Google AI Studio."
-      ],
-      "title": "✅ Free website & app design with Google Stitch"
-    },
-    {
-      "date": "AUG 31",
-      "description": "The HelloRoam eSIM trick is real.",
-      "links": [
-        {
-          "href": "https://helloroam.com",
-          "label": "Open HelloRoam ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DcsxQz4KLZW/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Note",
-        "text": "This gives mobile data without PTA registration, but not local calls or SMS like a PTA SIM."
-      },
-      "steps": [
-        "Open helloroam.com on your phone.",
-        "Type your destination, such as Pakistan, and choose a data plan.",
-        "Pay by card or Apple Pay.",
-        "Wait for the QR code by email.",
-        "On iPhone, open Settings → Cellular → Add eSIM, then scan the code.",
-        "Turn on Data Roaming for the eSIM and set it as your Mobile Data line."
-      ],
-      "title": "✅ SIM on a non-PTA iPhone"
-    },
-    {
-      "date": "AUG 30",
-      "description": "**This is piracy.** Netmirror.gg is an unlicensed streaming site made to look like Netflix. It streams shows free, but it is illegal, full of ads, and sites like it keep changing domains or going down.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DcqfJ7SK2NS/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "🏴‍☠️ Netflix & Prime Video free"
-    },
-    {
-      "date": "AUG 29",
-      "description": "Google Pomelli is real.",
-      "links": [
-        {
-          "href": "https://labs.google/pomelli",
-          "label": "Open Pomelli ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/DcntZrsKWa0/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "steps": [
-        "Open labs.google/pomelli.",
-        "Sign in free with your Google account.",
-        "Paste your business website link and press Enter.",
-        "Pomelli reads your site and builds your brand style.",
-        "Pick a suggested campaign idea or type your own.",
-        "Edit the ready-made ad images and captions, then download and post them."
-      ],
-      "title": "✅ Free business ad campaigns"
-    },
-    {
-      "date": "AUG 28",
-      "description": "**Be careful.** The app is real on the Play Store and App Store, but “millions of songs free with offline downloads” almost certainly means unlicensed music. Apps like this often get removed, so do not rely on it.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DclJaLBqCjR/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "title": "⚠️ Free Spotify with Lumo Music"
-    },
-    {
-      "date": "AUG 26",
-      "description": "AgentRouter is real.",
-      "links": [
-        {
-          "href": "https://agentrouter.org",
-          "label": "Open AgentRouter ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/Dcf6l93qVu4/",
-          "label": "Watch reel ↗"
-        }
-      ],
-      "note": {
-        "label": "Warning",
-        "text": "AgentRouter is a third party, not Anthropic. It can see your requests, and the free credits are a limited promotion."
-      },
-      "steps": [
-        "Open agentrouter.org and sign in with GitHub. No card is needed.",
-        "Check the free credit balance in your dashboard.",
-        "Create an API token.",
-        "In Claude Desktop, go to Help → Troubleshooting and turn on Developer Mode.",
-        "Open Developer → Configure third-party inference. Paste https://agentrouter.org/ as the gateway URL and add your API key, then apply and relaunch."
-      ],
-      "title": "✅ Free Claude for coding"
+     "label": "Google Vids ↗",
+     "href": "https://workspace.google.com/products/vids/"
     }
-  ],
-  "tricks": [
+   ]
+  },
+  {
+   "date": "OCT 10",
+   "title": "🎨 Create unlimited AI images — free",
+   "description": "Techwithmani2.0 shows **ToolFK's free AI Image Generator**: pick the **AGNES AI** model, type a prompt, and get unlimited AI pictures without paying or signing up.",
+   "steps": [
+    "Open **toolfk.com** → **AI Image Generator**.",
+    "Select the **AGNES AI** model, enter your prompt, hit generate.",
+    "Download your AI image — repeat free, unlimited times."
+   ],
+   "note": {
+    "label": "Note",
+    "text": "Short ads play between generations. Best for cartoon-style images; quality varies by prompt."
+   },
+   "links": [
     {
-      "tag": "APP",
-      "title": "🚫 Block ALL ads with AdGuard — YouTube, sites & apps",
-      "description": "The creator demos **AdGuard**, a well-known ad blocker: install the **free browser extension** from adguard.com, enable it, and YouTube and websites load **without ads**. Also available as an app for **Android and iPhone** to block in-app and browser ads on phones.",
-      "steps": [
-        "Go to **adguard.com** and download the free **browser extension** for Chrome.",
-        "Pin the extension and switch it **ON** — ads disappear from YouTube and websites.",
-        "For phones, grab the **AdGuard app** from the Play Store or App Store for system-wide blocking.",
-        "No account needed — it starts working right after install."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "The reel's demo is genuine — AdGuard is a **real, long-running ad blocker** and its site is live. The **free browser extension** covers browser ads; **full system-wide blocking on phones is a paid product**. The reel also name-drops a third-party streaming site we didn't verify — not linked here, so treat that part as unendorsed."
-      },
-      "links": [
-        {
-          "label": "Download AdGuard ↗",
-          "href": "https://adguard.com/"
-        },
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/Del7a72qh17/"
-        }
-      ],
-      "copy": "adguard.com"
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DeRT8F6q6G3/"
     },
     {
-      "tag": "VIDEO",
-      "title": "✂️ Turn long YouTube videos into Shorts — free",
-      "description": "The creator's own free Windows app **Mani Clips** auto-cuts long YouTube videos into ready **vertical Shorts** — paste a link, get **30s/45s/60s clips** with **auto speech captions**, processed entirely on your PC with **no upload**.",
-      "steps": [
-        "Download the free installer from **maniclips.site** and open the app.",
-        "Use **Import From YouTube**, paste the video URL, and hit **Download & Process**.",
-        "In Shorts Studio pick **9:16**, your clip length, **Full screen** fit, and enable **Auto speech captions**.",
-        "Preview the generated clips, move captions if needed, and download your Shorts."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Mani Clips is **the creator's own app**, so the reel is partly self-promotion — but the tool is genuinely free with no account needed. **Windows only**, and the installer is a large download (~433 MB with FFmpeg, Whisper and yt-dlp bundled). It downloads YouTube videos, so use it for your own clips or rights-free remixing."
-      },
-      "links": [
-        {
-          "label": "Download Mani Clips ↗",
-          "href": "https://maniclips.site/"
-        },
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/DegxDq3qrRD/"
-        }
-      ],
-      "copy": "maniclips.site"
-    },
-    {
-      "tag": "GAMING",
-      "title": "🎮 Play GTA 5 right in your browser",
-      "description": "A **browser-based GTA 5** — just open **gta.deloskiyt.pl** and the game loads on the page. No download, no install.",
-      "steps": [
-        "Open **gta.deloskiyt.pl** in your browser (turn on **desktop site** on mobile).",
-        "Let the game load in the page — it needs a **fast internet connection**.",
-        "For smoother controls, connect a **keyboard via OTG** (a viewer tip from the reel comments)."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Mixed viewer reports — some say it **lags on phones** and a few say it won't load at all. Best experienced on a desktop-class browser with good bandwidth; treat it as a fun experiment."
-      },
-      "links": [
-        {
-          "label": "Play GTA 5 in browser ↗",
-          "href": "https://gta.deloskiyt.pl/"
-        },
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/Debl8JcqEvG/"
-        }
-      ],
-      "copy": "gta.deloskiyt.pl"
-    },
-    {
-      "tag": "AI TOOLS",
-      "title": "🎬 Make AI videos free with Google Vids",
-      "description": "A **genuinely free (limited) trick** — Google Vids generates AI video clips from a text prompt with just a Google account sign-in, exactly as shown in the reel.",
-      "steps": [
-        "Open the **Google Vids** page and click **Sign in to Vids**.",
-        "Inside the editor, add a **new scene** and type a prompt describing your video.",
-        "Hit **Generate** — the AI clip appears in the preview panel.",
-        "Insert the clip into the timeline next to your other scenes and export."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Free, but capped — viewers report roughly 5–10 free videos per Google account before paid credits kick in. Plan your prompts."
-      },
-      "links": [
-        {
-          "label": "Google Vids ↗",
-          "href": "https://workspace.google.com/products/vids/"
-        },
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/DeY-sY-q3_k/"
-        }
-      ],
-      "copy": "workspace.google.com/products/vids"
-    },
-    {
-      "tag": "AI TOOLS",
-      "title": "🎨 Create unlimited AI images — free",
-      "description": "A **100% free trick** — ToolFK's AI Image Generator creates unlimited AI pictures with **no sign-up and no cost**, exactly as shown in the reel.",
-      "steps": [
-        "Open **toolfk.com** and go to the **AI Image Generator** tool.",
-        "Pick the **AGNES AI** model and type your prompt (e.g. \"cat wearing superman suit, cartoon style\").",
-        "Hit **Generate** — your AI image is ready to download. Repeat as many times as you want."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Free tool with short ads between generations, as seen in the reel. Works best for cartoon-style images; quality varies with the prompt."
-      },
-      "links": [
-        {
-          "label": "ToolFK AI Image Generator ↗",
-          "href": "https://toolfk.com"
-        },
-        {
-          "label": "Watch reel ↗",
-          "href": "https://www.instagram.com/reel/DeRT8F6q6G3/"
-        }
-      ]
-    },
-    {
-      "tag": "YOUTUBE",
-      "title": "🚫 Watch YouTube with zero ads",
-      "description": "A **real, free trick** — open YouTube inside the **Brave browser**, which blocks ads automatically. No app to pay for, no sketchy extension.",
-      "steps": [
-        "Install the free **Brave browser** from the Play Store or App Store.",
-        "Open Brave and go to **m.youtube.com**.",
-        "Play any video — **no ads before or during playback**, as shown in the reel."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Works only when you watch inside the Brave browser — the official YouTube app still shows ads. Brave is free and open-source; background playback can vary by device."
-      },
-      "links": [
-        {
-          "label": "Get Brave (free) ↗",
-          "href": "https://brave.com/download/"
-        },
-        {
-          "label": "Watch reel 1 ↗",
-          "href": "https://www.instagram.com/reel/DeMLRd9KtyR/"
-        },
-        {
-          "label": "Watch reel 2 ↗",
-          "href": "https://www.instagram.com/reel/DeMLGfWKqYG/"
-        }
-      ],
-      "copy": "Ad-free YouTube trick: install the free Brave browser, open m.youtube.com inside it, and play any video — Brave blocks all ads automatically."
-    },
-    {
-      "tag": "INSTAGRAM GROWTH",
-      "title": "📈 Get more Instagram views with Trial Reels",
-      "description": "A creator trick that uses **real Instagram settings** — no app, no fake website. The idea: let Instagram test your reel on non-followers first, then open it to everyone once it performs.",
-      "steps": [
-        "Open Instagram **Settings → Sharing and reuse**.",
-        "Turn ON **Posts and reels to stories**, **Reposts on posts and reels**, and **Allow people to share externally** — more shares = more reach.",
-        "Create your reel. When posting, choose **Trial reel** instead of Everyone — Instagram shows it only to non-followers first.",
-        "Watch its performance. If it's doing well, switch the reel's audience to **Everyone** to push it wider."
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "Trial Reels is a real Instagram feature — this is a growth tactic, not a hack or bot. Better reach is likely, never guaranteed: content quality still decides."
-      },
-      "links": [
-        {
-          "label": "Watch reel 1 ↗",
-          "href": "https://www.instagram.com/reel/DeJm1sSKEuu/"
-        },
-        {
-          "label": "Watch reel 2 ↗",
-          "href": "https://www.instagram.com/reel/DeJmXidqHOm/"
-        }
-      ],
-      "copy": "Instagram views trick: Settings → Sharing and reuse → turn ON share options. Post the reel as a Trial reel (non-followers first). If it performs well, switch audience to Everyone."
-    },
-    {
-      "description": "Based in Multan, Pakistan, iTechieSIM sells prepaid travel data eSIMs for 195+ countries. The site shows a 7-day plan for Rs 2,215.",
-      "links": [
-        {
-          "href": "https://www.instagram.com/reel/DdyfRohKuYQ/",
-          "label": "Watch reel 1 ↗"
-        },
-        {
-          "href": "https://www.instagram.com/reel/Ddye_hpqFOL/",
-          "label": "Watch reel 2 ↗"
-        }
-      ],
-      "note": {
-        "label": "Honest note",
-        "text": "This does not give a non-PTA phone a local Pakistani SIM. It only gives travel data through an eSIM."
-      },
-      "steps": [
-        "Open itechiesim.com, then pick your country and data plan.",
-        "Pay. You get a QR code by email and WhatsApp in about 30 seconds.",
-        "On iPhone, go to **Settings → Mobile Data → Add eSIM** and scan the QR code. Turn on Data Roaming.",
-        "Keep your normal SIM on for WhatsApp and bank OTPs. The eSIM gives you internet."
-      ],
-      "tag": "TRAVEL DATA",
-      "title": "✅ iTechieSIM travel eSIM"
-    },
-    {
-      "copy": "Windows + V",
-      "description": "Press **Windows + V** to retrieve text and images you copied earlier. Turn it on the first time the panel opens.",
-      "tag": "WINDOWS",
-      "title": "Open your clipboard history"
-    },
-    {
-      "copy": "Ctrl + Shift + T / Cmd + Shift + T",
-      "description": "Press **Ctrl + Shift + T** on Windows or **Cmd + Shift + T** on Mac. Repeat it to restore more tabs.",
-      "tag": "BROWSER",
-      "title": "Reopen a closed tab"
-    },
-    {
-      "copy": "Settings → Security → App Pinning",
-      "description": "Enable App Pinning in Security settings, then pin one app before handing over your phone. Other apps stay out of reach.",
-      "tag": "ANDROID",
-      "title": "Pin an app for a hand-off"
+     "label": "ToolFK AI Image Generator ↗",
+     "href": "https://toolfk.com"
     }
-  ]
+   ]
+  },
+  {
+   "date": "SEP 29",
+   "title": "🎮 Play GTA in your browser — no download",
+   "description": "**Real and free.** GTA Vice City (2002) and GTA 3 now run right inside a modern browser — no download, no install, works on phone and PC.",
+   "steps": [
+    "Open **quenq.com** and go to the Apps section",
+    "Pick GTA 3 or GTA Vice City and hit **Play Game**",
+    "Wait for it to load, then click to start — touch controls appear on mobile"
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Fan-made port, not an official Rockstar release. On DOS Zone only a demo is free — the full game needs files from your own Vice City copy."
+   },
+   "links": [
+    {
+     "label": "Play it: quenq.com ↗",
+     "href": "https://quenq.com"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/Dd3kkLJBdEu/"
+    }
+   ]
+  },
+  {
+   "date": "SEP 25",
+   "description": "**Not real in a legal way.** No legal site streams Netflix, HBO and Disney+ free. The reel shows pirate sites. They may play, but they are illegal, full of pop-up ads and malware risk, and often get shut down. Legal free options include Pluto TV and Tubi.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DdtLR6nK59u/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "🏴‍☠️ Free Netflix, HBO Max & more"
+  },
+  {
+   "date": "SEP 23",
+   "description": "roadmap.sh is real and free.",
+   "links": [
+    {
+     "href": "https://roadmap.sh/",
+     "label": "Open roadmap.sh ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DdoJTqRKvMj/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "steps": [
+    "Open roadmap.sh.",
+    "Click **Roadmaps** and pick one, such as Frontend or Backend.",
+    "Click any box to open free lessons for that topic.",
+    "Click a box again to mark it Done.",
+    "Sign in free to save your progress."
+   ],
+   "title": "✅ Free courses for students"
+  },
+  {
+   "date": "SEP 22",
+   "description": "Both tools are real.",
+   "links": [
+    {
+     "href": "https://getdesign.md/",
+     "label": "Get Design ↗"
+    },
+    {
+     "href": "https://sitepeel.dev/",
+     "label": "Sitepeel ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DdllkxEqXvx/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "Copy code only to learn. Get permission before reusing someone’s work."
+   },
+   "steps": [
+    "Open getdesign.md and choose a brand, such as BMW.",
+    "Click **Copy** on the design file and paste it into your AI coding tool.",
+    "Tell the AI: “build a page in this style.”",
+    "For Sitepeel, install it from the Chrome Web Store. Open a website, then click the extension to see or copy its HTML and CSS."
+   ],
+   "title": "✅ Make your website look professional"
+  },
+  {
+   "date": "SEP 21",
+   "description": "This is a real open-source project.",
+   "links": [
+    {
+     "href": "https://github.com/FatihMakes/Mark-LIV",
+     "label": "Open project ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DdizwrFIkc5/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "It uses Google’s free tier, which has limits."
+   },
+   "steps": [
+    "Install Python on your PC from python.org.",
+    "Open the Mark-LIV GitHub page, click the green **Code** button, choose **Download ZIP**, then unzip it.",
+    "Go to Google AI Studio and create a free API key.",
+    "Follow the setup in the unzipped folder and add your key where it asks.",
+    "Run the main file and say “Hey Jarvis.”"
+   ],
+   "title": "✅ Build your own JARVIS"
+  },
+  {
+   "date": "SEP 19",
+   "description": "Audiomack, Apollo Music and Youtify are real free apps.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/Ddd-6rTKaBn/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "They are not full Spotify replacements, and song choice can be limited."
+   },
+   "steps": [
+    "Open the App Store, search **Audiomack**, and install it.",
+    "Search **Apollo Music** and install it.",
+    "Search **Youtify** and install it.",
+    "Open an app, search for a song, then play it or save it offline."
+   ],
+   "title": "✅ Free music apps for iPhone"
+  },
+  {
+   "date": "SEP 17",
+   "description": "**The reel gave the wrong website.** arena-ai.com is a hardware company. The real free multi-model chat is arena.ai.",
+   "links": [
+    {
+     "href": "https://arena.ai",
+     "label": "Open arena.ai ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DdYmT-oqqe5/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "It has daily limits. It is not unlimited."
+   },
+   "steps": [
+    "Open arena.ai.",
+    "Pick two AI models to compare, or choose Direct Mode for one model.",
+    "Type your question and read the answers."
+   ],
+   "title": "⚠️ Free Claude and GPT chat"
+  },
+  {
+   "date": "SEP 16",
+   "description": "**Half fake.** There is no music app called Bitcord; Bitcord is a messenger app. Echo Music is real, but it streams YouTube Music without ads, which breaks YouTube’s rules. Use it at your own risk.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DdWHSq6KyOq/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "❌ Free Spotify trick for Android"
+  },
+  {
+   "date": "SEP 15",
+   "description": "**The reel gave the wrong website.** recordly.com is dead. The real free tool is recordly.dev.",
+   "links": [
+    {
+     "href": "https://recordly.dev",
+     "label": "Open Recordly ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DdThf47Ko1w/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "steps": [
+    "Open recordly.dev and download it for Mac, Windows or Linux.",
+    "Install and open it.",
+    "Press record and make your tutorial.",
+    "It adds zoom effects and smooth cursor movement automatically.",
+    "Export your result as MP4 or GIF."
+   ],
+   "title": "⚠️ Auto-editing screen recorder"
+  },
+  {
+   "date": "SEP 14",
+   "description": "kikivoice.ai is real and free.",
+   "links": [
+    {
+     "href": "https://kikivoice.ai",
+     "label": "Open KikiVoice ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DdQ8wMNK4xj/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Tip",
+    "text": "Use a clean, noise-free sample. The free plan has weekly limits and needs no sign-up."
+   },
+   "steps": [
+    "Open kikivoice.ai.",
+    "Choose **Voice Cloning**.",
+    "Record or upload 10–15 seconds of clear voice.",
+    "Type or paste the words you want spoken.",
+    "Click Generate, wait, then download the MP3."
+   ],
+   "title": "✅ Free voice cloning & text-to-speech"
+  },
+  {
+   "date": "SEP 13",
+   "description": "**This is a myth, not a hack.** YouTube says channel country and keyword settings do not boost recommendations. These settings are fine for housekeeping, but views come from good titles, watch time and useful content.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DdOTuJrqFJ3/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "❌ YouTube views trick"
+  },
+  {
+   "date": "SEP 12",
+   "description": "KwaiCut is a real app.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DdLlQMgKcuQ/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "4K export may need the paid Pro upgrade."
+   },
+   "steps": [
+    "Open the Play Store and search **KwaiCut - Video Editor**.",
+    "Check that the developer is **Kwai Technology Limited**, then install it.",
+    "Open it and tap New Project to choose a video.",
+    "Tap a clip to cut it or add filters, effects and music.",
+    "Try the free templates in the Material Center.",
+    "Tap Export, choose the quality, then save and share."
+   ],
+   "title": "✅ KwaiCut: free CapCut alternative"
+  },
+  {
+   "date": "SEP 10",
+   "description": "**The claim is false.** trustedeleven.com is a paid shop using JazzCash, Easypaisa or bank transfer. There is no free tier. For free voices, try kikivoice.ai above instead.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DdGq1GrqRoK/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "❌ Free AI voices"
+  },
+  {
+   "date": "SEP 9",
+   "description": "DeepSeek is real and free.",
+   "links": [
+    {
+     "href": "https://chat.deepseek.com",
+     "label": "Open DeepSeek ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DdD_u2RKC9N/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "steps": [
+    "Open chat.deepseek.com.",
+    "Sign up free with email or Google.",
+    "Type a question or coding problem and press send.",
+    "To fix code, paste it and ask: “find the bug in this code.”",
+    "Turn on DeepThink for step-by-step maths or logic answers."
+   ],
+   "title": "✅ Free ChatGPT alternative for coding"
+  },
+  {
+   "date": "SEP 8",
+   "description": "**This is piracy.** The reel shows shared Crunchyroll logins and unlicensed anime streams. Shared logins can get accounts banned. Pirate sites are illegal and often have aggressive pop-up ads.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DdBfEkQqBlF/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "🏴‍☠️ Free anime"
+  },
+  {
+   "date": "SEP 7",
+   "description": "This trick is real and works.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/Dc-7hp7qxga/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "It gives a close match, not a pixel-perfect copy."
+   },
+   "steps": [
+    "Take a screenshot of the AI image you like.",
+    "Open ChatGPT and start a new chat.",
+    "Attach the image.",
+    "Type: “Give me the exact prompt in JSON format to recreate this image. Describe composition, style, lighting, colours, and mood.”",
+    "Copy the JSON ChatGPT writes.",
+    "Paste it into an image generator and swap the subject for your own photo."
+   ],
+   "title": "✅ Copy any AI image prompt"
+  },
+  {
+   "date": "SEP 6",
+   "description": "It is real, but read the warning. The reel misspelled the website; the correct site is platform.experientiallabs.ai.",
+   "links": [
+    {
+     "href": "https://platform.experientiallabs.ai",
+     "label": "Open platform ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dc8bB2RKQ0u/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Warning",
+    "text": "You give your card to a small third-party company. The free tier is a limited promotion, not forever."
+   },
+   "steps": [
+    "Open the site and sign up.",
+    "Go to Models and find GPT-6 Astra.",
+    "Add a card and pay the one-time $1 verification charge to unlock the free tier.",
+    "Create an API key in your dashboard.",
+    "Set your monthly budget to $0 so you cannot be billed.",
+    "Use the key with the model name **gpt-6-astra**."
+   ],
+   "title": "✅ GPT-6 Astra free"
+  },
+  {
+   "date": "SEP 5",
+   "description": "**Could not verify.** freemodels.pro would not open. “Free unlimited frontier AI models with no signup” is not believable when those models cost money elsewhere. Do not enter your login or card details there.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/Dc5vR8gKWt4/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "⚠️ Free Claude & Fable models"
+  },
+  {
+   "date": "SEP 4",
+   "description": "Klera is a real free app.",
+   "links": [
+    {
+     "href": "https://kleraapp.com/get",
+     "label": "Get Klera ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dc3DjihKLT_/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "It works fully offline and needs no account."
+   },
+   "steps": [
+    "Open kleraapp.com/get on your phone.",
+    "Tap the Play Store or App Store button and install Klera.",
+    "Open it. No sign-up is needed.",
+    "Tap + and type an amount, or say “200 chai, 300 fuel,” to log spending.",
+    "Set a monthly budget for overspend alerts.",
+    "Ask “Can I buy a phone for 30000?” and its on-device AI answers from your data."
+   ],
+   "title": "✅ Track where your money goes"
+  },
+  {
+   "date": "SEP 2",
+   "description": "This workflow is real.",
+   "links": [
+    {
+     "href": "https://labs.google/flow",
+     "label": "Open Google Flow ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dcx9nycKXKN/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "The free tier gives about 2–3 clips a day, not unlimited use."
+   },
+   "steps": [
+    "Photograph your product on a plain background.",
+    "In ChatGPT, describe it and ask: “write a detailed AI video prompt for a product ad.”",
+    "Open Google Flow and sign in with a free Google account.",
+    "Start a new project and upload your product photos.",
+    "Paste the ChatGPT prompt and generate the clip.",
+    "Download the video and post it."
+   ],
+   "title": "✅ Free AI product videos"
+  },
+  {
+   "date": "SEP 1",
+   "description": "Google Stitch is real.",
+   "links": [
+    {
+     "href": "https://stitch.withgoogle.com",
+     "label": "Open Stitch ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dcvhfevqwp-/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "It is free with daily limits."
+   },
+   "steps": [
+    "Open stitch.withgoogle.com and sign in with Google.",
+    "Choose Mobile or Web.",
+    "Type your idea in simple words, such as “a food delivery app with dark mode.”",
+    "Click Generate to make full screens with colors and buttons.",
+    "Chat with it to refine the design, such as “make the button rounder.”",
+    "Export the code or send it to Figma or Google AI Studio."
+   ],
+   "title": "✅ Free website & app design with Google Stitch"
+  },
+  {
+   "date": "AUG 31",
+   "description": "The HelloRoam eSIM trick is real.",
+   "links": [
+    {
+     "href": "https://helloroam.com",
+     "label": "Open HelloRoam ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DcsxQz4KLZW/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Note",
+    "text": "This gives mobile data without PTA registration, but not local calls or SMS like a PTA SIM."
+   },
+   "steps": [
+    "Open helloroam.com on your phone.",
+    "Type your destination, such as Pakistan, and choose a data plan.",
+    "Pay by card or Apple Pay.",
+    "Wait for the QR code by email.",
+    "On iPhone, open Settings → Cellular → Add eSIM, then scan the code.",
+    "Turn on Data Roaming for the eSIM and set it as your Mobile Data line."
+   ],
+   "title": "✅ SIM on a non-PTA iPhone"
+  },
+  {
+   "date": "AUG 30",
+   "description": "**This is piracy.** Netmirror.gg is an unlicensed streaming site made to look like Netflix. It streams shows free, but it is illegal, full of ads, and sites like it keep changing domains or going down.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DcqfJ7SK2NS/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "🏴‍☠️ Netflix & Prime Video free"
+  },
+  {
+   "date": "AUG 29",
+   "description": "Google Pomelli is real.",
+   "links": [
+    {
+     "href": "https://labs.google/pomelli",
+     "label": "Open Pomelli ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DcntZrsKWa0/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "steps": [
+    "Open labs.google/pomelli.",
+    "Sign in free with your Google account.",
+    "Paste your business website link and press Enter.",
+    "Pomelli reads your site and builds your brand style.",
+    "Pick a suggested campaign idea or type your own.",
+    "Edit the ready-made ad images and captions, then download and post them."
+   ],
+   "title": "✅ Free business ad campaigns"
+  },
+  {
+   "date": "AUG 28",
+   "description": "**Be careful.** The app is real on the Play Store and App Store, but “millions of songs free with offline downloads” almost certainly means unlicensed music. Apps like this often get removed, so do not rely on it.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DclJaLBqCjR/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "title": "⚠️ Free Spotify with Lumo Music"
+  },
+  {
+   "date": "AUG 26",
+   "description": "AgentRouter is real.",
+   "links": [
+    {
+     "href": "https://agentrouter.org",
+     "label": "Open AgentRouter ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dcf6l93qVu4/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Warning",
+    "text": "AgentRouter is a third party, not Anthropic. It can see your requests, and the free credits are a limited promotion."
+   },
+   "steps": [
+    "Open agentrouter.org and sign in with GitHub. No card is needed.",
+    "Check the free credit balance in your dashboard.",
+    "Create an API token.",
+    "In Claude Desktop, go to Help → Troubleshooting and turn on Developer Mode.",
+    "Open Developer → Configure third-party inference. Paste https://agentrouter.org/ as the gateway URL and add your API key, then apply and relaunch."
+   ],
+   "title": "✅ Free Claude for coding"
+  }
+ ],
+ "tricks": [
+  {
+   "tag": "WEBSITE",
+   "title": "🎬 New movies in Hindi — free on pvrplay.in",
+   "description": "Techwithmani2.0 shows how to watch **new movies dubbed in Hindi** without Netflix or Prime Video — open **pvrplay.in** in your browser and pick a movie to stream right in the page.",
+   "steps": [
+    "Open **pvrplay.in** in your browser (works on phone and PC).",
+    "Browse or search for the **movie you want** — new releases are listed upfront.",
+    "Tap a title and **stream it in Hindi** directly, no download needed."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The site **is live** and loads fine. It's an **unofficial streaming site** — legality and stream quality can vary, so don't enter any personal details or card info. The creator re-uploaded the same reel twice (3 min apart); both point to the same site."
+   },
+   "links": [
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DewIskPKEZn/"
+    },
+    {
+     "label": "Visit pvrplay.in ↗",
+     "href": "https://pvrplay.in"
+    }
+   ]
+  },
+  {
+   "tag": "APP",
+   "title": "🚫 Block ALL ads with AdGuard — YouTube, sites & apps",
+   "description": "The creator demos **AdGuard**, a well-known ad blocker: install the **free browser extension** from adguard.com, enable it, and YouTube and websites load **without ads**. Also available as an app for **Android and iPhone** to block in-app and browser ads on phones.",
+   "steps": [
+    "Go to **adguard.com** and download the free **browser extension** for Chrome.",
+    "Pin the extension and switch it **ON** — ads disappear from YouTube and websites.",
+    "For phones, grab the **AdGuard app** from the Play Store or App Store for system-wide blocking.",
+    "No account needed — it starts working right after install."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The reel's demo is genuine — AdGuard is a **real, long-running ad blocker** and its site is live. The **free browser extension** covers browser ads; **full system-wide blocking on phones is a paid product**. The reel also name-drops a third-party streaming site we didn't verify — not linked here, so treat that part as unendorsed."
+   },
+   "links": [
+    {
+     "label": "Download AdGuard ↗",
+     "href": "https://adguard.com/"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/Del7a72qh17/"
+    }
+   ],
+   "copy": "adguard.com"
+  },
+  {
+   "tag": "VIDEO",
+   "title": "✂️ Turn long YouTube videos into Shorts — free",
+   "description": "The creator's own free Windows app **Mani Clips** auto-cuts long YouTube videos into ready **vertical Shorts** — paste a link, get **30s/45s/60s clips** with **auto speech captions**, processed entirely on your PC with **no upload**.",
+   "steps": [
+    "Download the free installer from **maniclips.site** and open the app.",
+    "Use **Import From YouTube**, paste the video URL, and hit **Download & Process**.",
+    "In Shorts Studio pick **9:16**, your clip length, **Full screen** fit, and enable **Auto speech captions**.",
+    "Preview the generated clips, move captions if needed, and download your Shorts."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Mani Clips is **the creator's own app**, so the reel is partly self-promotion — but the tool is genuinely free with no account needed. **Windows only**, and the installer is a large download (~433 MB with FFmpeg, Whisper and yt-dlp bundled). It downloads YouTube videos, so use it for your own clips or rights-free remixing."
+   },
+   "links": [
+    {
+     "label": "Download Mani Clips ↗",
+     "href": "https://maniclips.site/"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DegxDq3qrRD/"
+    }
+   ],
+   "copy": "maniclips.site"
+  },
+  {
+   "tag": "GAMING",
+   "title": "🎮 Play GTA 5 right in your browser",
+   "description": "A **browser-based GTA 5** — just open **gta.deloskiyt.pl** and the game loads on the page. No download, no install.",
+   "steps": [
+    "Open **gta.deloskiyt.pl** in your browser (turn on **desktop site** on mobile).",
+    "Let the game load in the page — it needs a **fast internet connection**.",
+    "For smoother controls, connect a **keyboard via OTG** (a viewer tip from the reel comments)."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Mixed viewer reports — some say it **lags on phones** and a few say it won't load at all. Best experienced on a desktop-class browser with good bandwidth; treat it as a fun experiment."
+   },
+   "links": [
+    {
+     "label": "Play GTA 5 in browser ↗",
+     "href": "https://gta.deloskiyt.pl/"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/Debl8JcqEvG/"
+    }
+   ],
+   "copy": "gta.deloskiyt.pl"
+  },
+  {
+   "tag": "AI TOOLS",
+   "title": "🎬 Make AI videos free with Google Vids",
+   "description": "A **genuinely free (limited) trick** — Google Vids generates AI video clips from a text prompt with just a Google account sign-in, exactly as shown in the reel.",
+   "steps": [
+    "Open the **Google Vids** page and click **Sign in to Vids**.",
+    "Inside the editor, add a **new scene** and type a prompt describing your video.",
+    "Hit **Generate** — the AI clip appears in the preview panel.",
+    "Insert the clip into the timeline next to your other scenes and export."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Free, but capped — viewers report roughly 5–10 free videos per Google account before paid credits kick in. Plan your prompts."
+   },
+   "links": [
+    {
+     "label": "Google Vids ↗",
+     "href": "https://workspace.google.com/products/vids/"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DeY-sY-q3_k/"
+    }
+   ],
+   "copy": "workspace.google.com/products/vids"
+  },
+  {
+   "tag": "AI TOOLS",
+   "title": "🎨 Create unlimited AI images — free",
+   "description": "A **100% free trick** — ToolFK's AI Image Generator creates unlimited AI pictures with **no sign-up and no cost**, exactly as shown in the reel.",
+   "steps": [
+    "Open **toolfk.com** and go to the **AI Image Generator** tool.",
+    "Pick the **AGNES AI** model and type your prompt (e.g. \"cat wearing superman suit, cartoon style\").",
+    "Hit **Generate** — your AI image is ready to download. Repeat as many times as you want."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Free tool with short ads between generations, as seen in the reel. Works best for cartoon-style images; quality varies with the prompt."
+   },
+   "links": [
+    {
+     "label": "ToolFK AI Image Generator ↗",
+     "href": "https://toolfk.com"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DeRT8F6q6G3/"
+    }
+   ]
+  },
+  {
+   "tag": "YOUTUBE",
+   "title": "🚫 Watch YouTube with zero ads",
+   "description": "A **real, free trick** — open YouTube inside the **Brave browser**, which blocks ads automatically. No app to pay for, no sketchy extension.",
+   "steps": [
+    "Install the free **Brave browser** from the Play Store or App Store.",
+    "Open Brave and go to **m.youtube.com**.",
+    "Play any video — **no ads before or during playback**, as shown in the reel."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Works only when you watch inside the Brave browser — the official YouTube app still shows ads. Brave is free and open-source; background playback can vary by device."
+   },
+   "links": [
+    {
+     "label": "Get Brave (free) ↗",
+     "href": "https://brave.com/download/"
+    },
+    {
+     "label": "Watch reel 1 ↗",
+     "href": "https://www.instagram.com/reel/DeMLRd9KtyR/"
+    },
+    {
+     "label": "Watch reel 2 ↗",
+     "href": "https://www.instagram.com/reel/DeMLGfWKqYG/"
+    }
+   ],
+   "copy": "Ad-free YouTube trick: install the free Brave browser, open m.youtube.com inside it, and play any video — Brave blocks all ads automatically."
+  },
+  {
+   "tag": "INSTAGRAM GROWTH",
+   "title": "📈 Get more Instagram views with Trial Reels",
+   "description": "A creator trick that uses **real Instagram settings** — no app, no fake website. The idea: let Instagram test your reel on non-followers first, then open it to everyone once it performs.",
+   "steps": [
+    "Open Instagram **Settings → Sharing and reuse**.",
+    "Turn ON **Posts and reels to stories**, **Reposts on posts and reels**, and **Allow people to share externally** — more shares = more reach.",
+    "Create your reel. When posting, choose **Trial reel** instead of Everyone — Instagram shows it only to non-followers first.",
+    "Watch its performance. If it's doing well, switch the reel's audience to **Everyone** to push it wider."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Trial Reels is a real Instagram feature — this is a growth tactic, not a hack or bot. Better reach is likely, never guaranteed: content quality still decides."
+   },
+   "links": [
+    {
+     "label": "Watch reel 1 ↗",
+     "href": "https://www.instagram.com/reel/DeJm1sSKEuu/"
+    },
+    {
+     "label": "Watch reel 2 ↗",
+     "href": "https://www.instagram.com/reel/DeJmXidqHOm/"
+    }
+   ],
+   "copy": "Instagram views trick: Settings → Sharing and reuse → turn ON share options. Post the reel as a Trial reel (non-followers first). If it performs well, switch audience to Everyone."
+  },
+  {
+   "description": "Based in Multan, Pakistan, iTechieSIM sells prepaid travel data eSIMs for 195+ countries. The site shows a 7-day plan for Rs 2,215.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DdyfRohKuYQ/",
+     "label": "Watch reel 1 ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Ddye_hpqFOL/",
+     "label": "Watch reel 2 ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "This does not give a non-PTA phone a local Pakistani SIM. It only gives travel data through an eSIM."
+   },
+   "steps": [
+    "Open itechiesim.com, then pick your country and data plan.",
+    "Pay. You get a QR code by email and WhatsApp in about 30 seconds.",
+    "On iPhone, go to **Settings → Mobile Data → Add eSIM** and scan the QR code. Turn on Data Roaming.",
+    "Keep your normal SIM on for WhatsApp and bank OTPs. The eSIM gives you internet."
+   ],
+   "tag": "TRAVEL DATA",
+   "title": "✅ iTechieSIM travel eSIM"
+  },
+  {
+   "copy": "Windows + V",
+   "description": "Press **Windows + V** to retrieve text and images you copied earlier. Turn it on the first time the panel opens.",
+   "tag": "WINDOWS",
+   "title": "Open your clipboard history"
+  },
+  {
+   "copy": "Ctrl + Shift + T / Cmd + Shift + T",
+   "description": "Press **Ctrl + Shift + T** on Windows or **Cmd + Shift + T** on Mac. Repeat it to restore more tabs.",
+   "tag": "BROWSER",
+   "title": "Reopen a closed tab"
+  },
+  {
+   "copy": "Settings → Security → App Pinning",
+   "description": "Enable App Pinning in Security settings, then pin one app before handing over your phone. Other apps stay out of reach.",
+   "tag": "ANDROID",
+   "title": "Pin an app for a hand-off"
+  }
+ ]
 }

@@ -1,13 +1,13 @@
 {
  "daily": {
-  "meta": "OCT 22 · WEBSITE",
-  "title": "New movies in Hindi — free on pvrplay.in.",
-  "description": "Watch **new movies dubbed in Hindi** in your browser with no Netflix or Prime needed — open **pvrplay.in**, pick a title, and stream right in the page.",
+  "meta": "OCT 28 · APP",
+  "title": "Enjoy music offline with Musinova — iPhone music player.",
+  "description": "Add songs to **Musinova Offline Music Player**, tap **download**, and play them anytime **without internet** — it handles local files plus your Apple Music library.",
   "note": {
    "label": "Honest note",
-   "text": "Unofficial streaming site — it loads and plays, but don't share personal or payment details there."
+   "text": "iPhone/iPad only — no Android version shown. Free with in-app purchases; it plays your own files and Apple Music library, not free Spotify songs."
   },
-  "copyText": "pvrplay.in"
+  "copyText": "Musinova Offline Music Player"
  },
  "hacks": [
   {
@@ -31,9 +31,33 @@
    "title": "Battery draining overnight?"
   }
  ],
- "reelCount": "29 reels checked",
+ "reelCount": "30 reels checked",
  "reelSource": "@techwithmani2.0",
  "reels": [
+  {
+   "date": "OCT 28",
+   "title": "🎵 Enjoy Music Offline — Musinova Music Player",
+   "description": "Techwithmani2.0 shows **Musinova Offline Music Player** on iPhone: add songs, tap download, and listen **without internet**.",
+   "steps": [
+    "Install **Musinova Offline Music Player** from the App Store.",
+    "Tap **Add Music** and add songs to the library.",
+    "Hit the **download button** — the song then plays offline."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this demo **twice** (9 minutes apart); both show the same app. **iPhone/iPad only** — no Android version shown."
+   },
+   "links": [
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DfCLgmMuJ8n/"
+    },
+    {
+     "label": "Get Musinova on the App Store ↗",
+     "href": "https://apps.apple.com/ca/app/musinova-offline-music-player/id6744778137"
+    }
+   ]
+  },
   {
    "date": "OCT 14",
    "title": "🎮 GTA 5 on Browser — No Download Needed",
@@ -643,6 +667,31 @@
   }
  ],
  "tricks": [
+  {
+   "tag": "APP",
+   "title": "🎵 Enjoy music offline with Musinova — iPhone music player",
+   "description": "Techwithmani2.0 demos **Musinova Offline Music Player**: add songs to its library, hit the **download button**, and play them anytime **without internet**. It plays local audio files (MP3, M4A, WAV, FLAC) plus your **Apple Music library**, with playlists and web-link downloads.",
+   "steps": [
+    "Open the **App Store** on your iPhone/iPad and install **Musinova Offline Music Player** (free).",
+    "Open the app and tap **Add Music** to import audio files or your Apple Music library.",
+    "Tap the **download button** on a song to save it for offline listening.",
+    "Play anytime afterwards — **no internet needed**."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "**iPhone/iPad only** — commenters asking for an Android version got no equivalent from the creator, so Android users should skip this one. The app is **free with in-app purchases**, and it plays **your own files and Apple Music library** — it does not unlock free Spotify songs offline. Verified live on the App Store (4.8★)."
+   },
+   "links": [
+    {
+     "label": "Get Musinova on the App Store ↗",
+     "href": "https://apps.apple.com/ca/app/musinova-offline-music-player/id6744778137"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DfCLgmMuJ8n/"
+    }
+   ]
+  },
   {
    "tag": "WEBSITE",
    "title": "🎬 New movies in Hindi — free on pvrplay.in",

@@ -1,13 +1,13 @@
 {
  "daily": {
-  "meta": "OCT 28 · APP",
-  "title": "Enjoy music offline with Musinova — iPhone music player.",
-  "description": "Add songs to **Musinova Offline Music Player**, tap **download**, and play them anytime **without internet** — it handles local files plus your Apple Music library.",
+  "meta": "OCT 29 · AI TOOLS",
+  "title": "Trending AI videos free — Ai Luq Ai (Seedance, Kling, Veo).",
+  "description": "One site for **AI images and videos** with top models like **Seedance 2.5, Kling and Veo 3.1** — plus promo code **MANI30** for 30% off paid plans.",
   "note": {
    "label": "Honest note",
-   "text": "iPhone/iPad only — no Android version shown. Free with in-app purchases; it plays your own files and Apple Music library, not free Spotify songs."
+   "text": "Only a limited trial is free — try it before paying."
   },
-  "copyText": "Musinova Offline Music Player"
+  "copyText": "AILUQAI.COM"
  },
  "hacks": [
   {
@@ -31,9 +31,33 @@
    "title": "Battery draining overnight?"
   }
  ],
- "reelCount": "30 reels checked",
+ "reelCount": "31 reels checked",
  "reelSource": "@techwithmani2.0",
  "reels": [
+  {
+   "date": "OCT 29",
+   "title": "🎬 Trending AI Video Free — Ai Luq Ai",
+   "description": "Techwithmani2.0 shows **Ai Luq Ai**: Seedance, Kling, Veo and more in one place for AI images and videos.",
+   "steps": [
+    "Open **ailuqai.com** and sign up.",
+    "Pick a model in **Video Studio** (Seedance 2.5, Kling, Veo 3.1) and write your prompt.",
+    "Generate and download your clip."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this demo **twice** (3 minutes apart); both show the same site. Only a **limited trial** is free — commenters report credits running out fast, and paid plans follow (promo **MANI30** = 30% off)."
+   },
+   "links": [
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DfE1_5SuO_B/"
+    },
+    {
+     "label": "Visit Ai Luq Ai ↗",
+     "href": "https://ailuqai.com/"
+    }
+   ]
+  },
   {
    "date": "OCT 28",
    "title": "🎵 Enjoy Music Offline — Musinova Music Player",
@@ -667,6 +691,31 @@
   }
  ],
  "tricks": [
+  {
+   "tag": "AI TOOLS",
+   "title": "🎬 Trending AI videos free — Ai Luq Ai (Seedance, Kling, Veo)",
+   "description": "Techwithmani2.0 demos **Ai Luq Ai**: one site with top AI models — **Seedance 2.5, Kling, Veo 3.1** and more — for **AI images and videos** in its Image, Video and Audio Studios. Sign up, pick a model, write a prompt, and generate.",
+   "steps": [
+    "Open **ailuqai.com** and sign up (email verification needed).",
+    "Open **Video Studio**, pick a model like **Seedance 2.5 or Kling**, and type your prompt — or start from an image.",
+    "Generate your clip, then download it for your reel or short.",
+    "Want a discount on paid plans? Use promo code **MANI30** for **30% off**."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Not unlimited-free: the site offers a **limited trial** (about 20 basic images / a few video clips, expiring in 7 days), and several commenters report **zero credits after sign-up** and paid credits beyond that. Try the trial first; pay only if it works for you."
+   },
+   "links": [
+    {
+     "label": "Visit Ai Luq Ai ↗",
+     "href": "https://ailuqai.com/"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DfE1_5SuO_B/"
+    }
+   ]
+  },
   {
    "tag": "APP",
    "title": "🎵 Enjoy music offline with Musinova — iPhone music player",

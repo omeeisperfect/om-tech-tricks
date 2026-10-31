@@ -1,13 +1,13 @@
 {
  "daily": {
-  "meta": "OCT 29 · AI TOOLS",
-  "title": "Trending AI videos free — Ai Luq Ai (Seedance, Kling, Veo).",
-  "description": "One site for **AI images and videos** with top models like **Seedance 2.5, Kling and Veo 3.1** — plus promo code **MANI30** for 30% off paid plans.",
+  "meta": "OCT 30 · FREE COURSES",
+  "title": "Free courses with certificates — FreeAcademy.ai.",
+  "description": "**225+ free courses** in AI, programming, data and more — start without signing up, pass the final exam, and earn a **free QR-verified certificate** for your LinkedIn or resume.",
   "note": {
    "label": "Honest note",
-   "text": "Only a limited trial is free — try it before paying."
+   "text": "Courses, exams and certificates are free — no card required. These are completion certificates, not university degrees."
   },
-  "copyText": "AILUQAI.COM"
+  "copyText": "FREEACADEMY.AI"
  },
  "hacks": [
   {
@@ -31,9 +31,33 @@
    "title": "Battery draining overnight?"
   }
  ],
- "reelCount": "31 reels checked",
+ "reelCount": "32 reels checked",
  "reelSource": "@techwithmani2.0",
  "reels": [
+  {
+   "date": "OCT 30",
+   "title": "🎓 FREE Courses With Certificates — FreeAcademy.ai",
+   "description": "Techwithmani2.0 shows **FreeAcademy.ai**: 225+ free courses with a **free certificate** on completion.",
+   "steps": [
+    "Open **freeacademy.ai** and pick a course.",
+    "Finish the lessons and pass the **final exam**.",
+    "Get your **free certificate** and add it to LinkedIn or your resume."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this demo **twice** (2 minutes apart); both show the same site. Courses, exams and certificates are free — no card required."
+   },
+   "links": [
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DfHYHB0OFBb/"
+    },
+    {
+     "label": "Visit FreeAcademy ↗",
+     "href": "https://freeacademy.ai/"
+    }
+   ]
+  },
   {
    "date": "OCT 29",
    "title": "🎬 Trending AI Video Free — Ai Luq Ai",
@@ -691,6 +715,31 @@
   }
  ],
  "tricks": [
+  {
+   "tag": "FREE COURSES",
+   "title": "🎓 Free courses with certificates — FreeAcademy.ai",
+   "description": "Techwithmani2.0 demos **FreeAcademy.ai**: **225+ free courses** in AI, programming, data, finance and business — start without signing up, learn at your own pace, and earn a **free certificate** for every course you complete.",
+   "steps": [
+    "Open **freeacademy.ai** and pick a course — popular picks include **Prompt Engineering, AI Essentials, Python and SQL**.",
+    "Work through the lessons at your own pace — no sign-up needed to start, and no card required.",
+    "Pass the **final exam (70% or higher)** to earn your **free, QR-verified certificate**.",
+    "Add the certificate to your **LinkedIn profile or resume** with its verification link."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this demo **twice** (2 minutes apart); both show the same site. Courses, exams and certificates are free — the site is ad-supported with an optional ad-free plan. These are **completion certificates**, verified by QR code, not university degrees."
+   },
+   "links": [
+    {
+     "label": "Visit FreeAcademy ↗",
+     "href": "https://freeacademy.ai/"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/DfHYHB0OFBb/"
+    }
+   ]
+  },
   {
    "tag": "AI TOOLS",
    "title": "🎬 Trending AI videos free — Ai Luq Ai (Seedance, Kling, Veo)",

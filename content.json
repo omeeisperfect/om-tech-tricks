@@ -1,13 +1,13 @@
 {
   "daily": {
-    "meta": "NOV 5 · USEFUL WEBSITES",
-    "title": "Everything free in one place — fmhy.net.",
-    "description": "One mega-list of free websites for movies, software, courses, games and more — **fmhy.net** has sab kuch in one place.",
+    "meta": "NOV 8 · USEFUL WEBSITES",
+    "title": "16 creative apps, free — getartcraft.com.",
+    "description": "16 open-source creative apps in one place — image editing, video, PDFs, design and more, **getartcraft.com** par, bina subscription.",
     "note": {
       "label": "Honest note",
-      "text": "The creator posted this reel twice (4 minutes apart); both show the same site."
+      "text": "The creator posted this reel twice (2 minutes apart); both show the same site."
     },
-    "copyText": "FMHY.NET"
+    "copyText": "GETARTCRAFT.COM"
   },
   "hacks": [
     {
@@ -31,9 +31,32 @@
       "title": "Battery draining overnight?"
     }
   ],
-  "reelCount": "34 reels checked",
+  "reelCount": 35,
   "reelSource": "@techwithmani2.0",
   "reels": [
+    {
+      "date": "NOV 8",
+      "title": "🎨 ADOBE JAISI 16 APPS FREE — getartcraft.com",
+      "description": "Techwithmani2.0 shows **getartcraft.com**: 16 open-source creative apps in one place — image editing, video, PDFs, design and more.",
+      "steps": [
+        "Open **getartcraft.com** in your browser.",
+        "Pick an app and download the free launcher."
+      ],
+      "note": {
+        "label": "Honest note",
+        "text": "The creator posted this reel **twice** (2 minutes apart); both show the same site."
+      },
+      "links": [
+        {
+          "label": "Watch reel ↗",
+          "href": "https://www.instagram.com/reel/DfekX8yKlea/"
+        },
+        {
+          "label": "Visit getartcraft.com ↗",
+          "href": "https://getartcraft.com/"
+        }
+      ]
+    },
     {
       "date": "NOV 5",
       "title": "🌐 SB YAHAN HI HAI — fmhy.net",
@@ -761,6 +784,29 @@
     }
   ],
   "tricks": [
+    {
+      "tag": "WEBSITES",
+      "title": "🎨 16 creative apps, free — getartcraft.com",
+      "description": "Techwithmani2.0 shows **getartcraft.com**: 16 open-source apps in one place — image editing, video, PDFs, design and more, Adobe jaisa kaam, bina subscription.",
+      "steps": [
+        "Open **getartcraft.com** in your browser.",
+        "Pick an app — image editing, video, PDF, design — and download the free launcher."
+      ],
+      "note": {
+        "label": "Honest note",
+        "text": "The creator posted this reel **twice** (2 minutes apart); both show the same site."
+      },
+      "links": [
+        {
+          "label": "Visit getartcraft.com ↗",
+          "href": "https://getartcraft.com/"
+        },
+        {
+          "label": "Watch reel ↗",
+          "href": "https://www.instagram.com/reel/DfekX8yKlea/"
+        }
+      ]
+    },
     {
       "tag": "WEBSITES",
       "title": "🌐 Everything free in one place — fmhy.net",

@@ -1,13 +1,8 @@
 {
   "daily": {
-    "meta": "NOV 8 · USEFUL WEBSITES",
-    "title": "16 creative apps, free — getartcraft.com.",
-    "description": "16 open-source creative apps in one place — image editing, video, PDFs, design and more, **getartcraft.com** par, bina subscription.",
-    "note": {
-      "label": "Honest note",
-      "text": "The creator posted this reel twice (2 minutes apart); both show the same site."
-    },
-    "copyText": "GETARTCRAFT.COM"
+    "meta": "NOV 10 · VIDEO EDITING",
+    "title": "Free captions in CapCut, Roman Urdu/Hindi me.",
+    "description": "CapCut ki free **Auto captions** se Hindi captions banao, phir **ChatGPT** se unhe **Roman Urdu/Hinglish** me convert karke wapas CapCut me lagao — bina paise kharch kiye stylish captions."
   },
   "hacks": [
     {
@@ -31,9 +26,25 @@
       "title": "Battery draining overnight?"
     }
   ],
-  "reelCount": 35,
+  "reelCount": 36,
   "reelSource": "@techwithmani2.0",
   "reels": [
+    {
+      "date": "NOV 10",
+      "title": "✂️ FREE CAPTIONS IN CAPCUT — Roman Urdu/Hindi me",
+      "description": "Techwithmani2.0 shows CapCut ki free **Auto captions** se Hindi captions banao, phir **ChatGPT** se unhe **Roman Urdu/Hinglish** me convert karke wapas CapCut me lagao.",
+      "steps": [
+        "CapCut me video import karo aur **Auto captions** on karo — Hindi captions free me ban jayenge.",
+        "Caption text copy karke **ChatGPT** me paste karo aur Roman Urdu/Hinglish me convert karne ko bolo.",
+        "Converted text wapas CapCut me paste karo aur apni pasand ka **caption style template** lagao."
+      ],
+      "links": [
+        {
+          "label": "Watch reel ↗",
+          "href": "https://www.instagram.com/reel/Dfjp2Hpo4nS/"
+        }
+      ]
+    },
     {
       "date": "NOV 8",
       "title": "🎨 ADOBE JAISI 16 APPS FREE — getartcraft.com",
@@ -784,6 +795,22 @@
     }
   ],
   "tricks": [
+    {
+      "tag": "VIDEO EDITING",
+      "title": "✂️ Free captions in CapCut, Roman Urdu/Hindi me — ChatGPT se",
+      "description": "Techwithmani2.0 shows CapCut ki free **Auto captions** se Hindi captions banao, phir **ChatGPT** se unhe **Roman Urdu/Hinglish** me convert karke wapas CapCut me lagao — bina paise kharch kiye stylish captions.",
+      "steps": [
+        "CapCut me video import karo aur **Auto captions** on karo — Hindi captions free me ban jayenge.",
+        "Caption text copy karke **ChatGPT** me paste karo aur Roman Urdu/Hinglish me convert karne ko bolo.",
+        "Converted text wapas CapCut me paste karo aur apni pasand ka **caption style template** lagao."
+      ],
+      "links": [
+        {
+          "label": "Watch reel ↗",
+          "href": "https://www.instagram.com/reel/Dfjp2Hpo4nS/"
+        }
+      ]
+    },
     {
       "tag": "WEBSITES",
       "title": "🎨 16 creative apps, free — getartcraft.com",

@@ -1,8 +1,8 @@
 {
  "daily": {
-  "meta": "NOV 13 · WEBSITES",
-  "title": "90s ke cartoons free me dekho — wco.tv",
-  "description": "Techwithmani2.0 shows **wco.tv** par 90s ke cartoons — **ThunderCats (1985)**, **Popeye (1960)** jaise classics, free me, browser me hi."
+  "description": "Techwithmani2.0 shows **arena.ai**: ek prompt likho aur AI playable browser game bana deta hai — jaise battle royale **DROPZONE**, bina coding ke.",
+  "meta": "NOV 14 · AI TOOLS",
+  "title": "Apna game khud banao, free me — arena.ai"
  },
  "hacks": [
   {
@@ -26,286 +26,306 @@
    "title": "Battery draining overnight?"
   }
  ],
- "reelCount": 37,
+ "reelCount": 38,
  "reelSource": "@techwithmani2.0",
  "reels": [
   {
-   "date": "NOV 12",
-   "title": "📺 90S CARTOONS FREE — wco.tv",
-   "description": "Techwithmani2.0 shows **wco.tv** par 90s ke cartoons free me dekho — **ThunderCats (1985)** aur **Popeye the Sailor (1960)** jaise classics, poori episode lists ke saath.",
+   "date": "NOV 14",
+   "description": "Techwithmani2.0 shows **arena.ai** par prompt likhkar apna game banao — AI ne top-down battle royale **DROPZONE** banaya, minutes me, bina coding ke.",
+   "links": [
+    {
+     "href": "https://arena.ai/",
+     "label": "arena.ai ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dft5czYqAEV/",
+     "label": "Watch reel ↗"
+    }
+   ],
    "steps": [
-    "Browser me **wco.tv** kholo aur **Cartoons** tab par jao.",
-    "Search me apna favourite cartoon dhoondo — jaise **ThunderCats 1985** ya **Popeye the Sailor 1960**.",
-    "Series page kholo, episode list se episode chuno aur play karo — bina download ke."
+    "Browser me **arena.ai** kholo aur **Make a game** chuno.",
+    "Apna game describe karo — jaise \"polished, playable browser shooting game\".",
+    "AI ke options me se ek chuno, **Building...** ka wait karo, phir khelo — game ko download ya share bhi kar sakte ho."
+   ],
+   "title": "🎮 MAKE YOUR OWN GAMES FREE — arena.ai"
+  },
+  {
+   "date": "NOV 12",
+   "description": "Techwithmani2.0 shows **wco.tv** par 90s ke cartoons free me dekho — **ThunderCats (1985)** aur **Popeye the Sailor (1960)** jaise classics, poori episode lists ke saath.",
+   "links": [
+    {
+     "href": "https://wco.tv/",
+     "label": "wco.tv ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dfozd36KT5e/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Note",
     "text": "Site par ads dikhte hain; kuch users ne load issue bhi bataya — ad-blocker ke saath try karo."
    },
-   "links": [
-    {
-     "label": "wco.tv ↗",
-     "href": "https://wco.tv/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Dfozd36KT5e/"
-    }
-   ]
+   "steps": [
+    "Browser me **wco.tv** kholo aur **Cartoons** tab par jao.",
+    "Search me apna favourite cartoon dhoondo — jaise **ThunderCats 1985** ya **Popeye the Sailor 1960**.",
+    "Series page kholo, episode list se episode chuno aur play karo — bina download ke."
+   ],
+   "title": "📺 90S CARTOONS FREE — wco.tv"
   },
   {
    "date": "NOV 10",
-   "title": "✂️ FREE CAPTIONS IN CAPCUT — Roman Urdu/Hindi me",
    "description": "Techwithmani2.0 shows CapCut ki free **Auto captions** se Hindi captions banao, phir **ChatGPT** se unhe **Roman Urdu/Hinglish** me convert karke wapas CapCut me lagao.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/Dfjp2Hpo4nS/",
+     "label": "Watch reel ↗"
+    }
+   ],
    "steps": [
     "CapCut me video import karo aur **Auto captions** on karo — Hindi captions free me ban jayenge.",
     "Caption text copy karke **ChatGPT** me paste karo aur Roman Urdu/Hinglish me convert karne ko bolo.",
     "Converted text wapas CapCut me paste karo aur apni pasand ka **caption style template** lagao."
    ],
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Dfjp2Hpo4nS/"
-    }
-   ]
+   "title": "✂️ FREE CAPTIONS IN CAPCUT — Roman Urdu/Hindi me"
   },
   {
    "date": "NOV 8",
-   "title": "🎨 ADOBE JAISI 16 APPS FREE — getartcraft.com",
    "description": "Techwithmani2.0 shows **getartcraft.com**: 16 open-source creative apps in one place — image editing, video, PDFs, design and more.",
-   "steps": [
-    "Open **getartcraft.com** in your browser.",
-    "Pick an app and download the free launcher."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DfekX8yKlea/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://getartcraft.com/",
+     "label": "Visit getartcraft.com ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this reel **twice** (2 minutes apart); both show the same site."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfekX8yKlea/"
-    },
-    {
-     "label": "Visit getartcraft.com ↗",
-     "href": "https://getartcraft.com/"
-    }
-   ]
+   "steps": [
+    "Open **getartcraft.com** in your browser.",
+    "Pick an app and download the free launcher."
+   ],
+   "title": "🎨 ADOBE JAISI 16 APPS FREE — getartcraft.com"
   },
   {
    "date": "NOV 5",
-   "title": "🌐 SB YAHAN HI HAI — fmhy.net",
    "description": "Techwithmani2.0 shows **fmhy.net**: one list of free websites for movies, software, courses, games and more.",
-   "steps": [
-    "Open **fmhy.net** in your browser.",
-    "Pick a category and open any site from the list."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DfWyyWWuDlG/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://fmhy.net/",
+     "label": "Visit fmhy.net ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this reel **twice** (4 minutes apart); both show the same site."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfWyyWWuDlG/"
-    },
-    {
-     "label": "Visit fmhy.net ↗",
-     "href": "https://fmhy.net/"
-    }
-   ]
+   "steps": [
+    "Open **fmhy.net** in your browser.",
+    "Pick a category and open any site from the list."
+   ],
+   "title": "🌐 SB YAHAN HI HAI — fmhy.net"
   },
   {
    "date": "NOV 3",
-   "title": "🎮 PLAY IGI ON BROWSER — No Download Needed",
    "description": "Techwithmani2.0 shows **igi.sagarinfosec.site**: play IGI free in your browser.",
-   "steps": [
-    "Open **igi.sagarinfosec.site** in your browser.",
-    "Start playing **IGI** — no download or install."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DfPCWDMu_FL/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://igi.sagarinfosec.site/",
+     "label": "Play IGI ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this demo **twice** (2 minutes apart); both show the same site."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfPCWDMu_FL/"
-    },
-    {
-     "label": "Play IGI ↗",
-     "href": "https://igi.sagarinfosec.site/"
-    }
-   ]
+   "steps": [
+    "Open **igi.sagarinfosec.site** in your browser.",
+    "Start playing **IGI** — no download or install."
+   ],
+   "title": "🎮 PLAY IGI ON BROWSER — No Download Needed"
   },
   {
    "date": "OCT 30",
-   "title": "🎓 FREE Courses With Certificates — FreeAcademy.ai",
    "description": "Techwithmani2.0 shows **FreeAcademy.ai**: 225+ free courses with a **free certificate** on completion.",
-   "steps": [
-    "Open **freeacademy.ai** and pick a course.",
-    "Finish the lessons and pass the **final exam**.",
-    "Get your **free certificate** and add it to LinkedIn or your resume."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DfHYHB0OFBb/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://freeacademy.ai/",
+     "label": "Visit FreeAcademy ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this demo **twice** (2 minutes apart); both show the same site. Courses, exams and certificates are free — no card required."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfHYHB0OFBb/"
-    },
-    {
-     "label": "Visit FreeAcademy ↗",
-     "href": "https://freeacademy.ai/"
-    }
-   ]
+   "steps": [
+    "Open **freeacademy.ai** and pick a course.",
+    "Finish the lessons and pass the **final exam**.",
+    "Get your **free certificate** and add it to LinkedIn or your resume."
+   ],
+   "title": "🎓 FREE Courses With Certificates — FreeAcademy.ai"
   },
   {
    "date": "OCT 29",
-   "title": "🎬 Trending AI Video Free — Ai Luq Ai",
    "description": "Techwithmani2.0 shows **Ai Luq Ai**: Seedance, Kling, Veo and more in one place for AI images and videos.",
-   "steps": [
-    "Open **ailuqai.com** and sign up.",
-    "Pick a model in **Video Studio** (Seedance 2.5, Kling, Veo 3.1) and write your prompt.",
-    "Generate and download your clip."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DfE1_5SuO_B/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://ailuqai.com/",
+     "label": "Visit Ai Luq Ai ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this demo **twice** (3 minutes apart); both show the same site. Only a **limited trial** is free — commenters report credits running out fast, and paid plans follow (promo **MANI30** = 30% off)."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfE1_5SuO_B/"
-    },
-    {
-     "label": "Visit Ai Luq Ai ↗",
-     "href": "https://ailuqai.com/"
-    }
-   ]
+   "steps": [
+    "Open **ailuqai.com** and sign up.",
+    "Pick a model in **Video Studio** (Seedance 2.5, Kling, Veo 3.1) and write your prompt.",
+    "Generate and download your clip."
+   ],
+   "title": "🎬 Trending AI Video Free — Ai Luq Ai"
   },
   {
    "date": "OCT 28",
-   "title": "🎵 Enjoy Music Offline — Musinova Music Player",
    "description": "Techwithmani2.0 shows **Musinova Offline Music Player** on iPhone: add songs, tap download, and listen **without internet**.",
-   "steps": [
-    "Install **Musinova Offline Music Player** from the App Store.",
-    "Tap **Add Music** and add songs to the library.",
-    "Hit the **download button** — the song then plays offline."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DfCLgmMuJ8n/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://apps.apple.com/ca/app/musinova-offline-music-player/id6744778137",
+     "label": "Get Musinova on the App Store ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this demo **twice** (9 minutes apart); both show the same app. **iPhone/iPad only** — no Android version shown."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfCLgmMuJ8n/"
-    },
-    {
-     "label": "Get Musinova on the App Store ↗",
-     "href": "https://apps.apple.com/ca/app/musinova-offline-music-player/id6744778137"
-    }
-   ]
+   "steps": [
+    "Install **Musinova Offline Music Player** from the App Store.",
+    "Tap **Add Music** and add songs to the library.",
+    "Hit the **download button** — the song then plays offline."
+   ],
+   "title": "🎵 Enjoy Music Offline — Musinova Music Player"
   },
   {
    "date": "OCT 14",
-   "title": "🎮 GTA 5 on Browser — No Download Needed",
    "description": "Techwithmani2.0 shows **GTA 5 running inside the browser** — open gta.deloskiyt.pl and play without downloading or installing anything.",
-   "steps": [
-    "Open **gta.deloskiyt.pl** in your browser.",
-    "Enable **desktop site** mode if you're on a phone.",
-    "Wait for the game to load and play right in the page."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/Debl8JcqEvG/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://gta.deloskiyt.pl/",
+     "label": "Play GTA 5 in browser ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "Comments are mixed — viewers report **lag on phones** and occasional load failures; best on a fast connection. The creator re-uploaded the same reel twice; both point to the same site."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Debl8JcqEvG/"
-    },
-    {
-     "label": "Play GTA 5 in browser ↗",
-     "href": "https://gta.deloskiyt.pl/"
-    }
-   ]
+   "steps": [
+    "Open **gta.deloskiyt.pl** in your browser.",
+    "Enable **desktop site** mode if you're on a phone.",
+    "Wait for the game to load and play right in the page."
+   ],
+   "title": "🎮 GTA 5 on Browser — No Download Needed"
   },
   {
    "date": "OCT 13",
-   "title": "🎬 FREE AI Video Generator — Google Vids",
    "description": "Techwithmani2.0 shows **Google Vids**: sign in with your Google account, add a scene, type a prompt, and generate an AI video clip — then insert it into the timeline and export.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DeY-sY-q3_k/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://workspace.google.com/products/vids/",
+     "label": "Google Vids ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The reel title says FREE, but viewers report the free tier is capped — around 5–10 videos per Google account, then paid credits are needed. Not unlimited."
+   },
    "steps": [
     "Search **Google Vids** and open the Google Workspace Vids page.",
     "Sign in with your Google account and open the editor.",
     "Add a new scene, type your prompt, and hit **Generate**.",
     "The AI clip appears in the preview — insert it into the timeline and export your video."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "The reel title says FREE, but viewers report the free tier is capped — around 5–10 videos per Google account, then paid credits are needed. Not unlimited."
-   },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DeY-sY-q3_k/"
-    },
-    {
-     "label": "Google Vids ↗",
-     "href": "https://workspace.google.com/products/vids/"
-    }
-   ]
+   "title": "🎬 FREE AI Video Generator — Google Vids"
   },
   {
    "date": "OCT 10",
-   "title": "🎨 Create unlimited AI images — free",
    "description": "Techwithmani2.0 shows **ToolFK's free AI Image Generator**: pick the **AGNES AI** model, type a prompt, and get unlimited AI pictures without paying or signing up.",
-   "steps": [
-    "Open **toolfk.com** → **AI Image Generator**.",
-    "Select the **AGNES AI** model, enter your prompt, hit generate.",
-    "Download your AI image — repeat free, unlimited times."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DeRT8F6q6G3/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://toolfk.com",
+     "label": "ToolFK AI Image Generator ↗"
+    }
    ],
    "note": {
     "label": "Note",
     "text": "Short ads play between generations. Best for cartoon-style images; quality varies by prompt."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DeRT8F6q6G3/"
-    },
-    {
-     "label": "ToolFK AI Image Generator ↗",
-     "href": "https://toolfk.com"
-    }
-   ]
+   "steps": [
+    "Open **toolfk.com** → **AI Image Generator**.",
+    "Select the **AGNES AI** model, enter your prompt, hit generate.",
+    "Download your AI image — repeat free, unlimited times."
+   ],
+   "title": "🎨 Create unlimited AI images — free"
   },
   {
    "date": "SEP 29",
-   "title": "🎮 Play GTA in your browser — no download",
    "description": "**Real and free.** GTA Vice City (2002) and GTA 3 now run right inside a modern browser — no download, no install, works on phone and PC.",
-   "steps": [
-    "Open **quenq.com** and go to the Apps section",
-    "Pick GTA 3 or GTA Vice City and hit **Play Game**",
-    "Wait for it to load, then click to start — touch controls appear on mobile"
+   "links": [
+    {
+     "href": "https://quenq.com",
+     "label": "Play it: quenq.com ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dd3kkLJBdEu/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "Fan-made port, not an official Rockstar release. On DOS Zone only a demo is free — the full game needs files from your own Vice City copy."
    },
-   "links": [
-    {
-     "label": "Play it: quenq.com ↗",
-     "href": "https://quenq.com"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Dd3kkLJBdEu/"
-    }
-   ]
+   "steps": [
+    "Open **quenq.com** and go to the Apps section",
+    "Pick GTA 3 or GTA Vice City and hit **Play Game**",
+    "Wait for it to load, then click to start — touch controls appear on mobile"
+   ],
+   "title": "🎮 Play GTA in your browser — no download"
   },
   {
    "date": "SEP 25",
@@ -820,394 +840,414 @@
  ],
  "tricks": [
   {
-   "tag": "WEBSITES",
-   "title": "📺 90s ke cartoons free me dekho — wco.tv",
-   "description": "Techwithmani2.0 shows **wco.tv** (Watch Cartoon Online) par 90s ke cartoons free me dekho — **ThunderCats (1985)** aur **Popeye the Sailor (1960)** jaise classics, poori episode lists ke saath, browser me hi play karo.",
+   "description": "Techwithmani2.0 shows **arena.ai**: sirf ek prompt likho aur AI tumhare liye ek playable browser game bana deta hai — jaise top-down battle royale **DROPZONE**. Bina coding, minutes me, free me.",
+   "links": [
+    {
+     "href": "https://arena.ai/",
+     "label": "arena.ai ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dft5czYqAEV/",
+     "label": "Watch reel ↗"
+    }
+   ],
    "steps": [
-    "Browser me **wco.tv** kholo aur **Cartoons** tab par jao.",
-    "Search me apna favourite cartoon dhoondo — jaise **ThunderCats 1985** ya **Popeye the Sailor 1960**.",
-    "Series page kholo, episode list se episode chuno aur play karo — bina download ke."
+    "Browser me **arena.ai** kholo aur **Make a game** chuno.",
+    "Apna game describe karo — jaise \"polished, playable browser shooting game\".",
+    "AI ke options me se ek chuno, **Building...** ka wait karo, phir khelo — game ko download ya share bhi kar sakte ho."
+   ],
+   "tag": "AI TOOLS",
+   "title": "🎮 Apna game khud banao, free me — arena.ai"
+  },
+  {
+   "description": "Techwithmani2.0 shows **wco.tv** (Watch Cartoon Online) par 90s ke cartoons free me dekho — **ThunderCats (1985)** aur **Popeye the Sailor (1960)** jaise classics, poori episode lists ke saath, browser me hi play karo.",
+   "links": [
+    {
+     "href": "https://wco.tv/",
+     "label": "wco.tv ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Dfozd36KT5e/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Note",
     "text": "Site par ads dikhte hain; kuch users ne load issue bhi bataya — ad-blocker ke saath try karo."
    },
-   "links": [
-    {
-     "label": "wco.tv ↗",
-     "href": "https://wco.tv/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Dfozd36KT5e/"
-    }
-   ]
+   "steps": [
+    "Browser me **wco.tv** kholo aur **Cartoons** tab par jao.",
+    "Search me apna favourite cartoon dhoondo — jaise **ThunderCats 1985** ya **Popeye the Sailor 1960**.",
+    "Series page kholo, episode list se episode chuno aur play karo — bina download ke."
+   ],
+   "tag": "WEBSITES",
+   "title": "📺 90s ke cartoons free me dekho — wco.tv"
   },
   {
-   "tag": "VIDEO EDITING",
-   "title": "✂️ Free captions in CapCut, Roman Urdu/Hindi me — ChatGPT se",
    "description": "Techwithmani2.0 shows CapCut ki free **Auto captions** se Hindi captions banao, phir **ChatGPT** se unhe **Roman Urdu/Hinglish** me convert karke wapas CapCut me lagao — bina paise kharch kiye stylish captions.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/Dfjp2Hpo4nS/",
+     "label": "Watch reel ↗"
+    }
+   ],
    "steps": [
     "CapCut me video import karo aur **Auto captions** on karo — Hindi captions free me ban jayenge.",
     "Caption text copy karke **ChatGPT** me paste karo aur Roman Urdu/Hinglish me convert karne ko bolo.",
     "Converted text wapas CapCut me paste karo aur apni pasand ka **caption style template** lagao."
    ],
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Dfjp2Hpo4nS/"
-    }
-   ]
+   "tag": "VIDEO EDITING",
+   "title": "✂️ Free captions in CapCut, Roman Urdu/Hindi me — ChatGPT se"
   },
   {
-   "tag": "WEBSITES",
-   "title": "🎨 16 creative apps, free — getartcraft.com",
    "description": "Techwithmani2.0 shows **getartcraft.com**: 16 open-source apps in one place — image editing, video, PDFs, design and more, Adobe jaisa kaam, bina subscription.",
-   "steps": [
-    "Open **getartcraft.com** in your browser.",
-    "Pick an app — image editing, video, PDF, design — and download the free launcher."
+   "links": [
+    {
+     "href": "https://getartcraft.com/",
+     "label": "Visit getartcraft.com ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DfekX8yKlea/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this reel **twice** (2 minutes apart); both show the same site."
    },
-   "links": [
-    {
-     "label": "Visit getartcraft.com ↗",
-     "href": "https://getartcraft.com/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfekX8yKlea/"
-    }
-   ]
+   "steps": [
+    "Open **getartcraft.com** in your browser.",
+    "Pick an app — image editing, video, PDF, design — and download the free launcher."
+   ],
+   "tag": "WEBSITES",
+   "title": "🎨 16 creative apps, free — getartcraft.com"
   },
   {
-   "tag": "WEBSITES",
-   "title": "🌐 Everything free in one place — fmhy.net",
    "description": "Techwithmani2.0 shows **fmhy.net**: one mega-list of free websites for movies, software, courses, games and more — sab yahan hi hai.",
-   "steps": [
-    "Open **fmhy.net** in your browser.",
-    "Pick a category — streaming, software, courses, games — and open any site from the list."
+   "links": [
+    {
+     "href": "https://fmhy.net/",
+     "label": "Visit fmhy.net ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DfWyyWWuDlG/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this reel **twice** (4 minutes apart); both show the same site."
    },
-   "links": [
-    {
-     "label": "Visit fmhy.net ↗",
-     "href": "https://fmhy.net/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfWyyWWuDlG/"
-    }
-   ]
+   "steps": [
+    "Open **fmhy.net** in your browser.",
+    "Pick a category — streaming, software, courses, games — and open any site from the list."
+   ],
+   "tag": "WEBSITES",
+   "title": "🌐 Everything free in one place — fmhy.net"
   },
   {
-   "tag": "GAMING",
-   "title": "🎮 Play IGI right in your browser — no download",
    "description": "Techwithmani2.0 shows **igi.sagarinfosec.site**: play the classic shooter **IGI** free in your browser, no install or download needed.",
-   "steps": [
-    "Open **igi.sagarinfosec.site** in your browser.",
-    "Start playing **IGI** right there — no download, no install."
+   "links": [
+    {
+     "href": "https://igi.sagarinfosec.site/",
+     "label": "Play IGI ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DfPCWDMu_FL/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The creator posted this demo **twice** (2 minutes apart); both show the same site. The site itself is free to open and play on."
    },
-   "links": [
-    {
-     "label": "Play IGI ↗",
-     "href": "https://igi.sagarinfosec.site/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfPCWDMu_FL/"
-    }
-   ]
+   "steps": [
+    "Open **igi.sagarinfosec.site** in your browser.",
+    "Start playing **IGI** right there — no download, no install."
+   ],
+   "tag": "GAMING",
+   "title": "🎮 Play IGI right in your browser — no download"
   },
   {
-   "tag": "FREE COURSES",
-   "title": "🎓 Free courses with certificates — FreeAcademy.ai",
    "description": "Techwithmani2.0 demos **FreeAcademy.ai**: **225+ free courses** in AI, programming, data, finance and business — start without signing up, learn at your own pace, and earn a **free certificate** for every course you complete.",
+   "links": [
+    {
+     "href": "https://freeacademy.ai/",
+     "label": "Visit FreeAcademy ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DfHYHB0OFBb/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this demo **twice** (2 minutes apart); both show the same site. Courses, exams and certificates are free — the site is ad-supported with an optional ad-free plan. These are **completion certificates**, verified by QR code, not university degrees."
+   },
    "steps": [
     "Open **freeacademy.ai** and pick a course — popular picks include **Prompt Engineering, AI Essentials, Python and SQL**.",
     "Work through the lessons at your own pace — no sign-up needed to start, and no card required.",
     "Pass the **final exam (70% or higher)** to earn your **free, QR-verified certificate**.",
     "Add the certificate to your **LinkedIn profile or resume** with its verification link."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "The creator posted this demo **twice** (2 minutes apart); both show the same site. Courses, exams and certificates are free — the site is ad-supported with an optional ad-free plan. These are **completion certificates**, verified by QR code, not university degrees."
-   },
-   "links": [
-    {
-     "label": "Visit FreeAcademy ↗",
-     "href": "https://freeacademy.ai/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfHYHB0OFBb/"
-    }
-   ]
+   "tag": "FREE COURSES",
+   "title": "🎓 Free courses with certificates — FreeAcademy.ai"
   },
   {
-   "tag": "AI TOOLS",
-   "title": "🎬 Trending AI videos free — Ai Luq Ai (Seedance, Kling, Veo)",
    "description": "Techwithmani2.0 demos **Ai Luq Ai**: one site with top AI models — **Seedance 2.5, Kling, Veo 3.1** and more — for **AI images and videos** in its Image, Video and Audio Studios. Sign up, pick a model, write a prompt, and generate.",
+   "links": [
+    {
+     "href": "https://ailuqai.com/",
+     "label": "Visit Ai Luq Ai ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DfE1_5SuO_B/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Not unlimited-free: the site offers a **limited trial** (about 20 basic images / a few video clips, expiring in 7 days), and several commenters report **zero credits after sign-up** and paid credits beyond that. Try the trial first; pay only if it works for you."
+   },
    "steps": [
     "Open **ailuqai.com** and sign up (email verification needed).",
     "Open **Video Studio**, pick a model like **Seedance 2.5 or Kling**, and type your prompt — or start from an image.",
     "Generate your clip, then download it for your reel or short.",
     "Want a discount on paid plans? Use promo code **MANI30** for **30% off**."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "Not unlimited-free: the site offers a **limited trial** (about 20 basic images / a few video clips, expiring in 7 days), and several commenters report **zero credits after sign-up** and paid credits beyond that. Try the trial first; pay only if it works for you."
-   },
-   "links": [
-    {
-     "label": "Visit Ai Luq Ai ↗",
-     "href": "https://ailuqai.com/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfE1_5SuO_B/"
-    }
-   ]
+   "tag": "AI TOOLS",
+   "title": "🎬 Trending AI videos free — Ai Luq Ai (Seedance, Kling, Veo)"
   },
   {
-   "tag": "APP",
-   "title": "🎵 Enjoy music offline with Musinova — iPhone music player",
    "description": "Techwithmani2.0 demos **Musinova Offline Music Player**: add songs to its library, hit the **download button**, and play them anytime **without internet**. It plays local audio files (MP3, M4A, WAV, FLAC) plus your **Apple Music library**, with playlists and web-link downloads.",
+   "links": [
+    {
+     "href": "https://apps.apple.com/ca/app/musinova-offline-music-player/id6744778137",
+     "label": "Get Musinova on the App Store ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DfCLgmMuJ8n/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "**iPhone/iPad only** — commenters asking for an Android version got no equivalent from the creator, so Android users should skip this one. The app is **free with in-app purchases**, and it plays **your own files and Apple Music library** — it does not unlock free Spotify songs offline. Verified live on the App Store (4.8★)."
+   },
    "steps": [
     "Open the **App Store** on your iPhone/iPad and install **Musinova Offline Music Player** (free).",
     "Open the app and tap **Add Music** to import audio files or your Apple Music library.",
     "Tap the **download button** on a song to save it for offline listening.",
     "Play anytime afterwards — **no internet needed**."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "**iPhone/iPad only** — commenters asking for an Android version got no equivalent from the creator, so Android users should skip this one. The app is **free with in-app purchases**, and it plays **your own files and Apple Music library** — it does not unlock free Spotify songs offline. Verified live on the App Store (4.8★)."
-   },
-   "links": [
-    {
-     "label": "Get Musinova on the App Store ↗",
-     "href": "https://apps.apple.com/ca/app/musinova-offline-music-player/id6744778137"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DfCLgmMuJ8n/"
-    }
-   ]
+   "tag": "APP",
+   "title": "🎵 Enjoy music offline with Musinova — iPhone music player"
   },
   {
-   "tag": "WEBSITE",
-   "title": "🎬 New movies in Hindi — free on pvrplay.in",
    "description": "Techwithmani2.0 shows how to watch **new movies dubbed in Hindi** without Netflix or Prime Video — open **pvrplay.in** in your browser and pick a movie to stream right in the page.",
-   "steps": [
-    "Open **pvrplay.in** in your browser (works on phone and PC).",
-    "Browse or search for the **movie you want** — new releases are listed upfront.",
-    "Tap a title and **stream it in Hindi** directly, no download needed."
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DewIskPKEZn/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://pvrplay.in",
+     "label": "Visit pvrplay.in ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "The site **is live** and loads fine. It's an **unofficial streaming site** — legality and stream quality can vary, so don't enter any personal details or card info. The creator re-uploaded the same reel twice (3 min apart); both point to the same site."
    },
-   "links": [
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DewIskPKEZn/"
-    },
-    {
-     "label": "Visit pvrplay.in ↗",
-     "href": "https://pvrplay.in"
-    }
-   ]
+   "steps": [
+    "Open **pvrplay.in** in your browser (works on phone and PC).",
+    "Browse or search for the **movie you want** — new releases are listed upfront.",
+    "Tap a title and **stream it in Hindi** directly, no download needed."
+   ],
+   "tag": "WEBSITE",
+   "title": "🎬 New movies in Hindi — free on pvrplay.in"
   },
   {
-   "tag": "APP",
-   "title": "🚫 Block ALL ads with AdGuard — YouTube, sites & apps",
+   "copy": "adguard.com",
    "description": "The creator demos **AdGuard**, a well-known ad blocker: install the **free browser extension** from adguard.com, enable it, and YouTube and websites load **without ads**. Also available as an app for **Android and iPhone** to block in-app and browser ads on phones.",
+   "links": [
+    {
+     "href": "https://adguard.com/",
+     "label": "Download AdGuard ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Del7a72qh17/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The reel's demo is genuine — AdGuard is a **real, long-running ad blocker** and its site is live. The **free browser extension** covers browser ads; **full system-wide blocking on phones is a paid product**. The reel also name-drops a third-party streaming site we didn't verify — not linked here, so treat that part as unendorsed."
+   },
    "steps": [
     "Go to **adguard.com** and download the free **browser extension** for Chrome.",
     "Pin the extension and switch it **ON** — ads disappear from YouTube and websites.",
     "For phones, grab the **AdGuard app** from the Play Store or App Store for system-wide blocking.",
     "No account needed — it starts working right after install."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "The reel's demo is genuine — AdGuard is a **real, long-running ad blocker** and its site is live. The **free browser extension** covers browser ads; **full system-wide blocking on phones is a paid product**. The reel also name-drops a third-party streaming site we didn't verify — not linked here, so treat that part as unendorsed."
-   },
-   "links": [
-    {
-     "label": "Download AdGuard ↗",
-     "href": "https://adguard.com/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Del7a72qh17/"
-    }
-   ],
-   "copy": "adguard.com"
+   "tag": "APP",
+   "title": "🚫 Block ALL ads with AdGuard — YouTube, sites & apps"
   },
   {
-   "tag": "VIDEO",
-   "title": "✂️ Turn long YouTube videos into Shorts — free",
+   "copy": "maniclips.site",
    "description": "The creator's own free Windows app **Mani Clips** auto-cuts long YouTube videos into ready **vertical Shorts** — paste a link, get **30s/45s/60s clips** with **auto speech captions**, processed entirely on your PC with **no upload**.",
+   "links": [
+    {
+     "href": "https://maniclips.site/",
+     "label": "Download Mani Clips ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DegxDq3qrRD/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Mani Clips is **the creator's own app**, so the reel is partly self-promotion — but the tool is genuinely free with no account needed. **Windows only**, and the installer is a large download (~433 MB with FFmpeg, Whisper and yt-dlp bundled). It downloads YouTube videos, so use it for your own clips or rights-free remixing."
+   },
    "steps": [
     "Download the free installer from **maniclips.site** and open the app.",
     "Use **Import From YouTube**, paste the video URL, and hit **Download & Process**.",
     "In Shorts Studio pick **9:16**, your clip length, **Full screen** fit, and enable **Auto speech captions**.",
     "Preview the generated clips, move captions if needed, and download your Shorts."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "Mani Clips is **the creator's own app**, so the reel is partly self-promotion — but the tool is genuinely free with no account needed. **Windows only**, and the installer is a large download (~433 MB with FFmpeg, Whisper and yt-dlp bundled). It downloads YouTube videos, so use it for your own clips or rights-free remixing."
-   },
-   "links": [
-    {
-     "label": "Download Mani Clips ↗",
-     "href": "https://maniclips.site/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DegxDq3qrRD/"
-    }
-   ],
-   "copy": "maniclips.site"
+   "tag": "VIDEO",
+   "title": "✂️ Turn long YouTube videos into Shorts — free"
   },
   {
-   "tag": "GAMING",
-   "title": "🎮 Play GTA 5 right in your browser",
+   "copy": "gta.deloskiyt.pl",
    "description": "A **browser-based GTA 5** — just open **gta.deloskiyt.pl** and the game loads on the page. No download, no install.",
-   "steps": [
-    "Open **gta.deloskiyt.pl** in your browser (turn on **desktop site** on mobile).",
-    "Let the game load in the page — it needs a **fast internet connection**.",
-    "For smoother controls, connect a **keyboard via OTG** (a viewer tip from the reel comments)."
+   "links": [
+    {
+     "href": "https://gta.deloskiyt.pl/",
+     "label": "Play GTA 5 in browser ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Debl8JcqEvG/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "Mixed viewer reports — some say it **lags on phones** and a few say it won't load at all. Best experienced on a desktop-class browser with good bandwidth; treat it as a fun experiment."
    },
-   "links": [
-    {
-     "label": "Play GTA 5 in browser ↗",
-     "href": "https://gta.deloskiyt.pl/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/Debl8JcqEvG/"
-    }
+   "steps": [
+    "Open **gta.deloskiyt.pl** in your browser (turn on **desktop site** on mobile).",
+    "Let the game load in the page — it needs a **fast internet connection**.",
+    "For smoother controls, connect a **keyboard via OTG** (a viewer tip from the reel comments)."
    ],
-   "copy": "gta.deloskiyt.pl"
+   "tag": "GAMING",
+   "title": "🎮 Play GTA 5 right in your browser"
   },
   {
-   "tag": "AI TOOLS",
-   "title": "🎬 Make AI videos free with Google Vids",
+   "copy": "workspace.google.com/products/vids",
    "description": "A **genuinely free (limited) trick** — Google Vids generates AI video clips from a text prompt with just a Google account sign-in, exactly as shown in the reel.",
+   "links": [
+    {
+     "href": "https://workspace.google.com/products/vids/",
+     "label": "Google Vids ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DeY-sY-q3_k/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Free, but capped — viewers report roughly 5–10 free videos per Google account before paid credits kick in. Plan your prompts."
+   },
    "steps": [
     "Open the **Google Vids** page and click **Sign in to Vids**.",
     "Inside the editor, add a **new scene** and type a prompt describing your video.",
     "Hit **Generate** — the AI clip appears in the preview panel.",
     "Insert the clip into the timeline next to your other scenes and export."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "Free, but capped — viewers report roughly 5–10 free videos per Google account before paid credits kick in. Plan your prompts."
-   },
-   "links": [
-    {
-     "label": "Google Vids ↗",
-     "href": "https://workspace.google.com/products/vids/"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DeY-sY-q3_k/"
-    }
-   ],
-   "copy": "workspace.google.com/products/vids"
+   "tag": "AI TOOLS",
+   "title": "🎬 Make AI videos free with Google Vids"
   },
   {
-   "tag": "AI TOOLS",
-   "title": "🎨 Create unlimited AI images — free",
    "description": "A **100% free trick** — ToolFK's AI Image Generator creates unlimited AI pictures with **no sign-up and no cost**, exactly as shown in the reel.",
-   "steps": [
-    "Open **toolfk.com** and go to the **AI Image Generator** tool.",
-    "Pick the **AGNES AI** model and type your prompt (e.g. \"cat wearing superman suit, cartoon style\").",
-    "Hit **Generate** — your AI image is ready to download. Repeat as many times as you want."
+   "links": [
+    {
+     "href": "https://toolfk.com",
+     "label": "ToolFK AI Image Generator ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DeRT8F6q6G3/",
+     "label": "Watch reel ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "Free tool with short ads between generations, as seen in the reel. Works best for cartoon-style images; quality varies with the prompt."
    },
-   "links": [
-    {
-     "label": "ToolFK AI Image Generator ↗",
-     "href": "https://toolfk.com"
-    },
-    {
-     "label": "Watch reel ↗",
-     "href": "https://www.instagram.com/reel/DeRT8F6q6G3/"
-    }
-   ]
+   "steps": [
+    "Open **toolfk.com** and go to the **AI Image Generator** tool.",
+    "Pick the **AGNES AI** model and type your prompt (e.g. \"cat wearing superman suit, cartoon style\").",
+    "Hit **Generate** — your AI image is ready to download. Repeat as many times as you want."
+   ],
+   "tag": "AI TOOLS",
+   "title": "🎨 Create unlimited AI images — free"
   },
   {
-   "tag": "YOUTUBE",
-   "title": "🚫 Watch YouTube with zero ads",
+   "copy": "Ad-free YouTube trick: install the free Brave browser, open m.youtube.com inside it, and play any video — Brave blocks all ads automatically.",
    "description": "A **real, free trick** — open YouTube inside the **Brave browser**, which blocks ads automatically. No app to pay for, no sketchy extension.",
-   "steps": [
-    "Install the free **Brave browser** from the Play Store or App Store.",
-    "Open Brave and go to **m.youtube.com**.",
-    "Play any video — **no ads before or during playback**, as shown in the reel."
+   "links": [
+    {
+     "href": "https://brave.com/download/",
+     "label": "Get Brave (free) ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DeMLRd9KtyR/",
+     "label": "Watch reel 1 ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DeMLGfWKqYG/",
+     "label": "Watch reel 2 ↗"
+    }
    ],
    "note": {
     "label": "Honest note",
     "text": "Works only when you watch inside the Brave browser — the official YouTube app still shows ads. Brave is free and open-source; background playback can vary by device."
    },
-   "links": [
-    {
-     "label": "Get Brave (free) ↗",
-     "href": "https://brave.com/download/"
-    },
-    {
-     "label": "Watch reel 1 ↗",
-     "href": "https://www.instagram.com/reel/DeMLRd9KtyR/"
-    },
-    {
-     "label": "Watch reel 2 ↗",
-     "href": "https://www.instagram.com/reel/DeMLGfWKqYG/"
-    }
+   "steps": [
+    "Install the free **Brave browser** from the Play Store or App Store.",
+    "Open Brave and go to **m.youtube.com**.",
+    "Play any video — **no ads before or during playback**, as shown in the reel."
    ],
-   "copy": "Ad-free YouTube trick: install the free Brave browser, open m.youtube.com inside it, and play any video — Brave blocks all ads automatically."
+   "tag": "YOUTUBE",
+   "title": "🚫 Watch YouTube with zero ads"
   },
   {
-   "tag": "INSTAGRAM GROWTH",
-   "title": "📈 Get more Instagram views with Trial Reels",
+   "copy": "Instagram views trick: Settings → Sharing and reuse → turn ON share options. Post the reel as a Trial reel (non-followers first). If it performs well, switch audience to Everyone.",
    "description": "A creator trick that uses **real Instagram settings** — no app, no fake website. The idea: let Instagram test your reel on non-followers first, then open it to everyone once it performs.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/DeJm1sSKEuu/",
+     "label": "Watch reel 1 ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/DeJmXidqHOm/",
+     "label": "Watch reel 2 ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "Trial Reels is a real Instagram feature — this is a growth tactic, not a hack or bot. Better reach is likely, never guaranteed: content quality still decides."
+   },
    "steps": [
     "Open Instagram **Settings → Sharing and reuse**.",
     "Turn ON **Posts and reels to stories**, **Reposts on posts and reels**, and **Allow people to share externally** — more shares = more reach.",
     "Create your reel. When posting, choose **Trial reel** instead of Everyone — Instagram shows it only to non-followers first.",
     "Watch its performance. If it's doing well, switch the reel's audience to **Everyone** to push it wider."
    ],
-   "note": {
-    "label": "Honest note",
-    "text": "Trial Reels is a real Instagram feature — this is a growth tactic, not a hack or bot. Better reach is likely, never guaranteed: content quality still decides."
-   },
-   "links": [
-    {
-     "label": "Watch reel 1 ↗",
-     "href": "https://www.instagram.com/reel/DeJm1sSKEuu/"
-    },
-    {
-     "label": "Watch reel 2 ↗",
-     "href": "https://www.instagram.com/reel/DeJmXidqHOm/"
-    }
-   ],
-   "copy": "Instagram views trick: Settings → Sharing and reuse → turn ON share options. Post the reel as a Trial reel (non-followers first). If it performs well, switch audience to Everyone."
+   "tag": "INSTAGRAM GROWTH",
+   "title": "📈 Get more Instagram views with Trial Reels"
   },
   {
    "description": "Based in Multan, Pakistan, iTechieSIM sells prepaid travel data eSIMs for 195+ countries. The site shows a 7-day plan for Rs 2,215.",

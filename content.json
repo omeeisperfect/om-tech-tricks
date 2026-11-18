@@ -1,8 +1,8 @@
 {
  "daily": {
-  "description": "Techwithmani2.0 shows **arena.ai**: ek prompt likho aur AI playable browser game bana deta hai — jaise battle royale **DROPZONE**, bina coding ke.",
-  "meta": "NOV 14 · AI TOOLS",
-  "title": "Apna game khud banao, free me — arena.ai"
+  "description": "Techwithmani2.0 shows **aglasem.com**: exam ki tayari asaan — syllabus, previous year question papers aur **free mock tests**, JEE/NEET, board exams aur admissions ke liye.",
+  "meta": "NOV 17 · WEBSITES",
+  "title": "Exam ki tayari asaan — aglasem.com"
  },
  "hacks": [
   {
@@ -26,9 +26,32 @@
    "title": "Battery draining overnight?"
   }
  ],
- "reelCount": 38,
+ "reelCount": 39,
  "reelSource": "@techwithmani2.0",
  "reels": [
+  {
+   "date": "NOV 17",
+   "description": "Techwithmani2.0 shows **aglasem.com**: exam ki tayari asaan — syllabus, previous year papers aur **free mock tests** for JEE/NEET, board exams and admissions.",
+   "links": [
+    {
+     "href": "https://www.instagram.com/reel/Df1rxXVKukr/",
+     "label": "Watch reel ↗"
+    },
+    {
+     "href": "https://aglasem.com/",
+     "label": "Visit aglasem.com ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this reel **twice** (2 minutes apart); both show the same site."
+   },
+   "steps": [
+    "Open **aglasem.com** and pick your exam.",
+    "Download **previous year papers** or take a **free mock test**."
+   ],
+   "title": "📚 EXAM KI TAYARI ASAAN — aglasem.com"
+  },
   {
    "date": "NOV 14",
    "description": "Techwithmani2.0 shows **arena.ai** par prompt likhkar apna game banao — AI ne top-down battle royale **DROPZONE** banaya, minutes me, bina coding ke.",
@@ -839,6 +862,30 @@
   }
  ],
  "tricks": [
+  {
+   "description": "Techwithmani2.0 shows **aglasem.com**: exam ki tayari asaan — syllabus, previous year question papers, sample papers aur **free mock tests**, JEE/NEET, board exams aur admissions ke liye, sab ek jagah.",
+   "links": [
+    {
+     "href": "https://aglasem.com/",
+     "label": "Visit aglasem.com ↗"
+    },
+    {
+     "href": "https://www.instagram.com/reel/Df1rxXVKukr/",
+     "label": "Watch reel ↗"
+    }
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this reel **twice** (2 minutes apart); both show the same site."
+   },
+   "steps": [
+    "Open **aglasem.com** in your browser.",
+    "Pick your exam — JEE, NEET, board exams, ya koi aur entrance exam.",
+    "Download **previous year papers** ya lo **free mock tests** to practise."
+   ],
+   "tag": "WEBSITES",
+   "title": "📚 Exam ki tayari asaan — aglasem.com"
+  },
   {
    "description": "Techwithmani2.0 shows **arena.ai**: sirf ek prompt likho aur AI tumhare liye ek playable browser game bana deta hai — jaise top-down battle royale **DROPZONE**. Bina coding, minutes me, free me.",
    "links": [

@@ -1,8 +1,8 @@
 {
  "daily": {
-  "description": "Techwithmani2.0 shows **aglasem.com**: exam ki tayari asaan — syllabus, previous year question papers aur **free mock tests**, JEE/NEET, board exams aur admissions ke liye.",
-  "meta": "NOV 17 · WEBSITES",
-  "title": "Exam ki tayari asaan — aglasem.com"
+  "meta": "NOV 19 · WEBSITES",
+  "title": "Duniya bhar ke live TV channels free — famelack.com",
+  "description": "Techwithmani2.0 shows **famelack.com**: duniya bhar ke **live TV channels free** — globe par apna country chuno aur channels chalao, jaise India me **9X Jalwa** aur **Sony Yay**."
  },
  "hacks": [
   {
@@ -26,9 +26,32 @@
    "title": "Battery draining overnight?"
   }
  ],
- "reelCount": 39,
+ "reelCount": 40,
  "reelSource": "@techwithmani2.0",
  "reels": [
+  {
+   "date": "NOV 19",
+   "title": "📺 DUNIYA BHAR KE LIVE TV CHANNELS FREE — famelack.com",
+   "description": "Techwithmani2.0 shows **famelack.com**: duniya bhar ke **live TV channels free** — country chuno aur channels chalao, jaise India me **9X Jalwa** aur **Sony Yay**.",
+   "steps": [
+    "Open **famelack.com** and pick your country.",
+    "Click a channel and watch it **live**, free."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this reel **twice** (3 minutes apart); both show the same site."
+   },
+   "links": [
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/Df62PJOqKce/"
+    },
+    {
+     "label": "Visit famelack.com ↗",
+     "href": "https://famelack.com/"
+    }
+   ]
+  },
   {
    "date": "NOV 17",
    "description": "Techwithmani2.0 shows **aglasem.com**: exam ki tayari asaan — syllabus, previous year papers aur **free mock tests** for JEE/NEET, board exams and admissions.",
@@ -862,6 +885,30 @@
   }
  ],
  "tricks": [
+  {
+   "tag": "WEBSITES",
+   "title": "📺 Duniya bhar ke live TV channels free — famelack.com",
+   "description": "Techwithmani2.0 shows **famelack.com**: duniya bhar ke **live TV channels free** — globe par apna country chuno aur channels chalao, jaise India me **9X Jalwa** aur **Sony Yay**.",
+   "steps": [
+    "Open **famelack.com** in your browser.",
+    "Globe/country list se apna country chuno — jaise **India**.",
+    "Channel par click karo aur live dekhna shuru karo — **9X Jalwa**, **Sony Yay** aur bahut saare."
+   ],
+   "note": {
+    "label": "Honest note",
+    "text": "The creator posted this reel **twice** (3 minutes apart); both show the same site."
+   },
+   "links": [
+    {
+     "label": "Visit famelack.com ↗",
+     "href": "https://famelack.com/"
+    },
+    {
+     "label": "Watch reel ↗",
+     "href": "https://www.instagram.com/reel/Df62PJOqKce/"
+    }
+   ]
+  },
   {
    "description": "Techwithmani2.0 shows **aglasem.com**: exam ki tayari asaan — syllabus, previous year question papers, sample papers aur **free mock tests**, JEE/NEET, board exams aur admissions ke liye, sab ek jagah.",
    "links": [
